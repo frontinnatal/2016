@@ -30,7 +30,7 @@ organizerEmail: "jsdaybr@gmail.com"
 
 # Head
 metaKeywords: "event, javascript, js, angularjs, google maps, ionic, firebase, aplicativos híbridos, nodebots"
-twitterAccount: "@jsdayrecife"
+twitterAccount: "@jsdaybr"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -152,7 +152,7 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=jsdayrecife", icon: "twitter"}
+ - {link: "https://twitter.com/intent/user?screen_name=jsdaybr", icon: "twitter"}
 
 footerBlocks:
  -
