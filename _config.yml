@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "JSDay Recife 2015"
-email: "jsdayrecife@gmail.com"
+email: "jsdaybr@gmail.com"
 description: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
 url: "http://jsday.com.br"
@@ -24,7 +24,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "JSday Recife"
 # organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
-organizerEmail: "jsdayrecife@gmail.com"
+organizerEmail: "jsdaybr@gmail.com"
 # organizerLogo: "/img/seo/organizer-logo.png"
 # organizerLink: "http://fb.com/caravanaweb"
 
@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 # c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "mailto:jsdayrecife@gmail.com?subject=Patrocínio JSday Recife 2015"
+c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2015"
 
 
 # Navigation
@@ -166,7 +166,7 @@ footerBlocks:
  -
   title: "Contato"
   links:
-   - {link: "mailto:jsdayrecife@gmail.com", text: "jsdayrecife@gmail.com"}
+   - {link: "mailto:jsdaybr@gmail.com", text: "jsdaybr@gmail.com"}
  -
   title: "FAQ"
   links:
