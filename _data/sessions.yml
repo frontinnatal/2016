@@ -34,7 +34,7 @@
   title: "Melhorando suas skills com a Google Maps API"
   description: "Um dos maiores desafios que enfrentei foi, arrumar uma solução melhor para usuários visualizarem grande quantidade de dados. Nessa palestra, com 15 minutos você vai aprender como personalizar e inserir um mapa com a cara do seu projeto, em 30 minutos você vai se surpreender em como é fácil manipular o mapa com a API, e durante os 15 minutos finais você vai apreciar alguns cases e idéias para incorporar esta API ao seu dia-a-dia."
   subtype: presentation
-  speakers: [7]
+  speakers: [5]
   language: pt-BR
   complexity: "Intermediate"
 -
@@ -59,7 +59,7 @@
   title: "Back End para Web Apps em Node.js"
   description: "Node.js é um runtime para servidores baseado no engine V8 do Google Chrome, e usa um modelo assíncrono baseado em eventos, o que o torna extremamente leve e eficiente. Além de tudo, possui uma enorme comunidade ativa, uma oferta de emprego que aumenta mais do que qualquer outra linguagem e um gerenciador de módulos (npm) com o maior ecosistema de bibliotecas open source do planeta. E todo em JavaScript."
   subtype: presentation
-  speakers: [5]
+  speakers: [7]
   language: pt-BR
   complexity: "Intermediate"
 -
