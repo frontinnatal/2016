@@ -83,3 +83,11 @@
   - {name: "google-plus", link: "https://plus.google.com/+MarinaLimeira"}
   - {name: "twitter", link: "http://twitter.com/marinalimeira_"}
   - {name: "github", link: "http://github.com/marinalimeira"}
+-
+  id: 7
+  name: "Henrique"
+  surname: "Foresti"
+  company: "Robô Livre"
+  title: "Desenvoledora Back-End"
+  bio: "Henrique Foresti é mineiro, natural de Varginha, atua nas áreas de Robótica e Eletrônica Embarcada. É engenheiro de sistemas do Bio Robotics Fusion, área que desenvolve a Robótica e Biologia Sintética no CESAR, idealizador da plataforma Robô Livre e professor do curso tecnólogo em Engenharia Mecatrônica do SENAI. Graduou-se em Ciências da Computação pela UEMG e é Mestre em Engenharia Mecânica pela UFPE. Atua também como curador dos principais eventos de Robótica e Tecnologia da América Latina e desenvolve projetos de pesquisa e inovação em parceria com diversas instituições, em especial nas áreas de robôs domésticos, robótica pedagógica, robôs terrestres, veículos aéreos não tripulados e plataformas de telemetria, processamento e comunicação."
+  thumbnailUrl: henriqueForesti.jpg
