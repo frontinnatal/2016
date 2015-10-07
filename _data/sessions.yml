@@ -127,11 +127,3 @@
   speakers: [9]
   language: pt-BR
   complexity: "Beginner"
--
-  id: 112
-  title: "Em breve"
-  description: "Em breve"
-  subtype: keynote
-  speakers: [7]
-  language: pt-BR
-  # complexity: "Beginner"
