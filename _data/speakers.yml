@@ -64,7 +64,7 @@
   title: "Front End Engineer"
   bio: "É desenvolvedor web freelancer e participou de projetos como: ComuniQ e Amigo secreto do Shopping Recife, atualmente em parceria com a Epitrack nos projetos: Saúde na Copa, Flu Near You e Salud Boricua. Formado em design gráfico pela Unibratec e especialista em Web-Apps é também entusiasta de CSS; Ah! É fã de Breaking Bad e House."
   thumbnailUrl: thulio-philipe.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "google-plus", link: "https://plus.google.com/+ThulioPhilipe"}
     - {name: "twitter", link: "http://twitter.com/thulioph_"}
