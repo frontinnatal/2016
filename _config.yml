@@ -164,6 +164,11 @@ footerBlocks:
    - {link: "http://robolivre.org", text: "Robolivre.org"}
    - {link: "https://womentechmakers.com", text: "Women Techmakers"}
  -
+  title: "Edições Anteriores"
+  links:
+   - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
+   - {link: "http://fsa.jsday.com.br", text: "JSday Feira de Santana"}
+ -
   title: "Contato"
   links:
    - {link: "mailto:jsdaybr@gmail.com", text: "jsdaybr@gmail.com"}
