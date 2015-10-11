@@ -127,3 +127,13 @@
   speakers: [9]
   language: pt-BR
   complexity: "Beginner"
+-
+  id: 112
+  title: "React.js no mundo mágico do Flux"
+  description: "React.js é uma library JavaScript criada pelo Facebook para construir user interfaces e também é a modinha de frontend desse ano, mas o que tem de especial nela? Já o Flux é uma arquitetura de aplicações para frontend, também desenvolvida gigante empresa do Mark Zuckerberg, que bruxaria é essa? A palestra vai introduzir as duas tecnologias, explicar casos de uso e mostrar como juntando as duas dá um bom rock 'n' roll."
+  subtype: presentation
+  speakers: [8]
+  language: pt-BR
+  complexity: "Intermediate"
+
+  
