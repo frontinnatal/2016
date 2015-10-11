@@ -72,12 +72,12 @@
   # complexity: "Beginner"
 -
   id: 105
-  title: "Electron: o poder da Web (e Node.js) em seu Desktop"
-  description: "A popularização de serviços cross-platform no desenvolvimento de aplicações mobile utilizando tecnologias web se torna cada vez mais popular e aceita pela comunidade. Cordova e, principalmente, Ionic chamaram a atenção para o crescimento dessa tendência. Fica a pergunta: será que em um ambiente Desktop, onde o poder de hardware geralmente é mais considerável, um aplicativo cross-platform com tecnologias web se comporta eficientemente? Nosso amado GitHub nos ajuda a responder essa pergunta com uma mãozinha do Electron, a ferramenta utilizada por Microsoft, Slack, Docker, Ionic e outros para criação de Desktop apps. Com esta talk irei mostrar as vantagens, desvantagens, ferramentas, tendências e, principalmente, porque você deveria adicionar do Electron à sua stack."
+  title: "React.js no mundo mágico do Flux"
+  description: "React.js é uma library JavaScript criada pelo Facebook para construir user interfaces e também é a modinha de frontend desse ano, mas o que tem de especial nela? Já o Flux é uma arquitetura de aplicações para frontend, também desenvolvida gigante empresa do Mark Zuckerberg, que bruxaria é essa? A palestra vai introduzir as duas tecnologias, explicar casos de uso e mostrar como juntando as duas dá um bom rock 'n' roll."
   subtype: presentation
   speakers: [8]
   language: pt-BR
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 106
   title: "LoopBack: Desenvolvimento de APIs Rest para aplicativos móveis"
@@ -127,13 +127,4 @@
   speakers: [9]
   language: pt-BR
   complexity: "Beginner"
--
-  id: 112
-  title: "React.js no mundo mágico do Flux"
-  description: "React.js é uma library JavaScript criada pelo Facebook para construir user interfaces e também é a modinha de frontend desse ano, mas o que tem de especial nela? Já o Flux é uma arquitetura de aplicações para frontend, também desenvolvida gigante empresa do Mark Zuckerberg, que bruxaria é essa? A palestra vai introduzir as duas tecnologias, explicar casos de uso e mostrar como juntando as duas dá um bom rock 'n' roll."
-  subtype: presentation
-  speakers: [8]
-  language: pt-BR
-  complexity: "Intermediate"
 
-  
