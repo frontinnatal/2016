@@ -85,7 +85,7 @@ rockstarSpeakersTitle: "JavaScript Experts"
 rockstarSpeakersButtonText: "Conheça todos Palestrantes"
 
 # Location Block
-locationBlockTitle: "Local"
+locationBlockTitle: "Localização"
 eventLocationName: "CESAR.EDU"
 eventLocationLink: "http://www.cesar.edu.br/"
 eventStreetAddress: "Rua do Brum, 77, Bairro do Recife"
@@ -102,7 +102,12 @@ mapMobileCenterCoordinates: "-8.0599489,-34.8719353"
 
 # Venue Block
 venueBlockTitle: "Local"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
 venueTitle: "CESAR.EDU"
+venueFeatures: ["Localizado no centro histórico do Recife", "Estrutura moderna e acessível", "Em pleno Porto Digital"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
