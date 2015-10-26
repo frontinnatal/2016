@@ -111,9 +111,9 @@ venueFeatures: ["Localizado no centro histórico do Recife", "Estrutura moderna 
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "JavaScript? YEAH!"
+tweetsFeedTitle: "Tweets.get()"
 twitterHashTag: "jsdayrec"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "#"
 
 # Partners Block
 organizersTitle: "Organização"
