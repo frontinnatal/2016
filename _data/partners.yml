@@ -3,7 +3,6 @@
   elements:
     - {name: "CESAR.EDU", description: "O CESAR, premiado centro de inovação, traz para a comunidade a sua unidade educacional, o CESAR.EDU.", link: "http://www.cesar.edu.br/", imageUrl: "cesar-edu.png", width: "209px"}
     - {name: "Code School", description: "Code School is an online learning destination for existing and aspiring developers that teaches through entertaining content.", link: "http://www.codeschool.com/jsdayrecife ", imageUrl: "codeschool.png", width: "505px"}
-    - {name: "Facebook", description: "Crie uma conta ou entre no Facebook. Conecte-se com amigos, familiares e outras pessoas que você conheça. Compartilhe fotos e vídeos, envie mensagens e...", link: "http://www.facebook.com/", imageUrl: "FB-f-Logo__blue_144.png", width: "144px"}
 -
   group: ""
   elements:
