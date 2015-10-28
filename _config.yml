@@ -134,18 +134,18 @@ ticketsOffers:
   price: "30"
   priceCurrency: "R$"
   buyButtonLink: "http://even.tc/jsday-recife-2015"
-  buyButtonText: "{{Comprar}}"
+  buyButtonText: "{{Esgotado}}"
   validFrom: "2015-10-05T10:00"
-  validThrough: "2015-11-11T23:59"
+  validThrough: "2015-12-12T23:59"
+  disabled: true
  -
   name: "2º Lote: Release Candidate"
   price: "50"
   priceCurrency: "R$"
   buyButtonLink: "http://even.tc/jsday-recife-2015"
   buyButtonText: "{{Comprar}}"
-  validFrom: "2015-11-12T00:00"
+  validFrom: "2015-10-28T00:00"
   validThrough: "2015-12-11T23:59"
-  disabled: true
  -
   name: "3º Lote: Release"
   price: "80"
