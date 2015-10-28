@@ -137,7 +137,6 @@ ticketsOffers:
   buyButtonText: "{{Esgotado}}"
   validFrom: "2015-10-05T10:00"
   validThrough: "2015-12-12T23:59"
-  disabled: true
  -
   name: "2º Lote: Release Candidate"
   price: "50"
