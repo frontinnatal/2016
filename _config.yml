@@ -59,6 +59,7 @@ typeoutTextValues: '"", "JavaScript", "AngularJS", "NodeBots", "Open Web App"'
 typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "http://even.tc/jsday-recife-2015", text: "Inscreva-se <3"}
+ - {link: "http://bit.ly/c4pjsdayrec", text: "Call for Papers ;)"}
 
 # About Block
 aboutTitle: "Sobre o JSday Recife"
