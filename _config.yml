@@ -159,6 +159,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=jsdaybr", icon: "twitter"}
+ - {link: "https://www.facebook.com/jsdaybr/", icon: "facebook"}
 
 footerBlocks:
  -
