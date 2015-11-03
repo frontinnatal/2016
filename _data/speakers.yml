@@ -17,7 +17,7 @@
   id: 2
   name: "Felipe"
   surname: "de Albuquerque"
-  company: "C.E.S.A.R"
+  company: "CESAR"
   title: "Front End Engineer"
   bio: "Web Designer e Front-End Developer com mais de dez anos de experiência em desenvolvimento de software, entre aplicações web, mobile e para Tv Digital. Atualmente trabalha no CESAR Recife, onde participa de projetos relevantes e para clientes de grande porte, como a Samsung, Motorola, Coca-cola, Fiat e atualmente em projetos da HP. Também faz parte do corpo docente do CESAR EDU, entre outras iniciativas acadêmicas e de mentoring. Tem interesse em ciência e tecnologia, arte, música e brinquedos tecnológicos."
   thumbnailUrl: felipedeolinda.jpg
@@ -46,7 +46,7 @@
   id: 4
   name: "Bruno"
   surname: "Lima"
-  company: "C.E.S.A.R"
+  company: "CESAR"
   title: "Front-End Developer"
   bio: "Web Developer, recifense, headbanger, motociclista e apaixonado por desenvolvimento web, focado no front-end. Mais de 7 anos de experiencia, passando por empresas de softwares e o agitado mercado de agência. Foi líder da equipe de Front-end na Fishy em Recife e atualmente é Front-end Developer no CESAR. É voluntário da Mozilla, apoiando e desenvolvendo a open web e neutralidade da rede. E também é membro do NodeBots Rec, fazendo robôs muito loucos com JavaScript."
   thumbnailUrl: brunolimawd.jpg
@@ -95,7 +95,7 @@
   id: 8
   name: "Aleff"
   surname: "Souza"
-  company: "C.E.S.A.R"
+  company: "CESAR"
   title: "Engenheiro de sistemas"
   bio: "Atualmente trabalha no CESAR, graduando em Ciências da Computação na UFPE, fã de Open Source, Scala & Node.js entusiasta, preparando-se para o apocalipse lambda e viciado em café <3"
   thumbnailUrl: aleffsouza.jpg
@@ -103,3 +103,27 @@
   - {name: "google-plus", link: "https://plus.google.com/u/1/101883740883696227096"}
   - {name: "twitter", link: "https://twitter.com/souza_aleff"}
   - {name: "github", link: "https://github.com/AleffSouza"}
+-
+  id: 9
+  name: "Maria"
+  surname: "Clara Santana"
+  company: "Clip"
+  title: "Front-end Developer"
+  bio: "Graduanda em Engenharia de Computação pela Universidade Federal de Alagoas, já se dedicou à pesquisa na área da Inteligência Artificial e hoje em dia é front-end developer na Clip. É apaixonada por front-end development, UX, comunidade, educação e empreendedorismo. Organizer do GDG e do WTM Maceió, acredita em iniciativas de inclusão e já foi coach do Technovation Challenge, um programa global de empreendedorismo tecnológico para garotas."
+  thumbnailUrl: clarasantana.jpg
+  ribbon:
+    - {abbr: "WTM", title: "Women Techmaker", url: "http://plus.google.com/+GdgmaceioRocksIt"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MariaClaraSantana1"}
+    - {name: "twitter", link: "http://twitter.com/olarclara"}
+    - {name: "github", link: "http://github.com/clarasantana"}
+-
+  id: 10
+  name: "Karla"
+  surname: "Falcão"
+  company: "CESAR"
+  title: "Engenheira de Software"
+  bio: "Venho trabalhando com desenvolvimento web desde 2011, atuando principalmente no front-end usando tecnologias como Javascript, PHP, HTML, CSS em conjunto com  frameworks, libs e hacks para dar mais dinamismo e acessibilidade ao maravilhoso mundo da WEB. Em 2013 comecei a me aventurar com AngularJS e NodeJS com as quais trabalho desde então."
+  thumbnailUrl: karla.jpg
+  social:
+    - {name: "twitter", link: "http://twitter.com/karlapsfalcao"}

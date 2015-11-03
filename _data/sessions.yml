@@ -1,6 +1,6 @@
 -
   id: 001
-  title: "Check-in"
+  title: "Check-in / Breakfast"
   place: "Lounge"
   service: true
 -
@@ -10,68 +10,43 @@
   service: true
 -
   id: 003
-  title: "Break"
-  place: "Lounge"
-  service: true
-  description: "Have a break, have a Kit Kat"
--
-  id: 004
   title: "Almoço"
   place: ""
   service: true
 -
-  id: 005
-  title: "A ser definido"
+  id: 004
+  title: "Accessibility Break by Facebook"
   place: "Auditorium"
+  service: true
 -
-  id: 006
+  id: 005
   title: "Encerramento"
   place: "Auditorium"
   service: true
   description: "Thank you and... Always bet on JS!"
 -
+  id: 006
+  title: "Em breve"
+  place: "Auditorium"
+  service: true
+-
   id: 100
-  title: "Melhorando suas skills com a Google Maps API"
-  description: "Um dos maiores desafios que enfrentei foi, arrumar uma solução melhor para usuários visualizarem grande quantidade de dados. Nessa palestra, com 15 minutos você vai aprender como personalizar e inserir um mapa com a cara do seu projeto, em 30 minutos você vai se surpreender em como é fácil manipular o mapa com a API, e durante os 15 minutos finais você vai apreciar alguns cases e idéias para incorporar esta API ao seu dia-a-dia."
+  title: "Firebase Adventures - Real time platform for your apps"
+  description: "Firebase is a powerful platform for building mobile and web applications. Use Firebase to store and sync data instantly, authenticate users, and easily deploy your web app. Firebase Adventures is a talk about how to use Firebase in different ways to give you the ability to build extraordinary cross-platform apps."
   subtype: presentation
-  speakers: [5]
+  speakers: [3]
   language: pt-BR
   complexity: "Intermediate"
 -
   id: 101
-  title: "Accessibility and JS: side-by-side"
-  description: "Through out history, JS has been pointed out as the villain when the matter is accessible websites. By presenting some tricks and techniques, we plan to provoke this discussion among developers, and show that Accessibility and JS may live together, as long as you take the right steps."
-  subtype: presentation
-  speakers: [2]
-  language: pt-BR
-  complexity: "Intermediate"
--
-  id: 102
-  title: "Em breve"
-  description: "Em breve."
-  subtype: keynote
-  speakers: [1]
-  language: pt-BR
-  # complexity: "Expert"
-  # presentation: "http://www.slideshare.net/WilsonMendes/angular-js-20-46452230"
--
-  id: 103
-  title: "Em breve"
-  description: "Em breve"
-  subtype: keynote
-  speakers: [7]
-  language: pt-BR
-  # complexity: "Beginner"
--
-  id: 104
-  title: "Em breve"
+  title: "NodeBots roll out"
   description: "Em breve."
   subtype: presentation
   speakers: [4]
   language: pt-BR
-  # complexity: "Beginner"
+  complexity: "Beginner"
 -
-  id: 105
+  id: 102
   title: "React.js no mundo mágico do Flux"
   description: "React.js é uma library JavaScript criada pelo Facebook para construir user interfaces e também é a modinha de frontend desse ano, mas o que tem de especial nela? Já o Flux é uma arquitetura de aplicações para frontend, também desenvolvida pela gigante empresa do Mark Zuckerberg, que bruxaria é essa? A palestra vai introduzir as duas tecnologias, explicar casos de uso e mostrar como juntando as duas dá um bom rock 'n' roll."
   subtype: presentation
@@ -79,31 +54,7 @@
   language: pt-BR
   complexity: "Intermediate"
 -
-  id: 106
-  title: "LoopBack: Desenvolvimento de APIs Rest para aplicativos móveis"
-  description: "O desenvolvimento de aplicativos móveis geralmente necessita de uma API Rest em sua infraestrutura, servindo para armazenar os dados dos usuários, torná-los disponíveis na internet e fazer toda a comunicação entre o usuário e o servidor. A utilização de NodeJS + Express + MongoDB permite facilmente o desenvolvimento dessa infraestrutura, porém se trata de um processo cansativo e repetitivo. Pensando nisso, foram criados diversos Backend as a Service (BaaS) como Parse, Firebase etc., que agilizam a criação do aplicativo e permite que o desenvolvedor foque na experiência do usuário. O LoopBack permite que você desenvolva rapidamente sua própria API Rest em NodeJS e a conecte ao seu aplicativo. Ele é mantido pela empresa StrongLoop (empresa que também mantém o Express) e vem ganhando cada vez mais visibilidade. Nesse talk, irei abordar como agilizar o desenvolvimento de uma aplicação mobile desenvolvida com Ionic, utilizando o framework LoopBack."
-  subtype: presentation
-  speakers: [10]
-  language: pt-BR
-  complexity: "Beginner"
--
-  id: 107
-  title: "Arquitetura web, o que não fazer!"
-  description: "Ao iniciarmos como programador, tomamos algumas decisões erradas. Muitas vezes organizamos os arquivos de maneira precária, a ponto de infringirmos boas práticas da arquitetura de software. Outra dificuldade para solucionar problemas, é a escolha prematura e nem sempre acertada dentre as tecnologias emergentes. Baseado na minha experiência profissional e tomando como exemplo o estudo de caso da empresa MeuTutor, venho mostrar que erros não cometer e as melhores práticas para lidar com alguns problemas de arquitetura e escolha de tecnologias."
-  subtype: presentation
-  speakers: [11]
-  language: pt-BR
-  complexity: "Beginner"
--
-  id: 108
-  title: "A evolução do JavaScript na ZUQ: Uma história de amor e ódio"
-  description: "As alterações rápidas e constantes no mundo da tecnologia como o aparecimento de novos frameworks e novas boas práticas de desenvolvimento têm um importante impacto na forma com que as empresas deste ramo desenvolvem os seus softwares, isto também acontece na ZUQ Soluções Inteligentes, empresa Alagoana que desenvolve soluções tecnológicas de baixo custo para pequenos e médios negócios. Deste modo, esta palestra tem como objetivo mostrar as alterações que a evolução do JavaScript causou dentro dos últimos 3 anos na ZUQ, tendo como foco os métodos utilizados para melhorar a produtividade ao longo do tempo."
-  subtype: presentation
-  speakers: [12]
-  language: pt-BR
-  complexity: "Beginner"
--
-  id: 109
+  id: 103
   title: "Firefox OS: Liberdade além da web"
   description: "Lançado em 2013, o novo sistema operacional para dispositivos móveis desenvolvido pela Mozilla é baseado no Kernel Linux e no poderoso motor de renderização Gecko do Firefox. Voltado inicialmente para mercados emergentes, o Firefox OS tem como objetivo trazer o próximo milhão de pessoas para a web. Seus aplicativos são todos feitos com HTML, CSS e JavaScript, tendo acesso ao hardware através das WebAPIs."
   subtype: presentation
@@ -111,20 +62,66 @@
   language: pt-BR
   complexity: "Beginner"
 -
-  id: 110
-  title: "Firebase Adventures - Real time platform for your apps"
-  description: "Firebase is a powerful platform for building mobile and web applications. Use Firebase to store and sync data instantly, authenticate users, and easily deploy your web app. Firebase Adventures is a talk about how to use Firebase in different ways to give you the ability to build extraordinary cross-platform apps."
-  subtype: keynote
-  speakers: [3]
+  id: 104
+  title: "Melhorando suas skills com a Google Maps API"
+  description: "Um dos maiores desafios que enfrentei foi, arrumar uma solução melhor para usuários visualizarem grande quantidade de dados. Nessa palestra, com 15 minutos você vai aprender como personalizar e inserir um mapa com a cara do seu projeto, em 30 minutos você vai se surpreender em como é fácil manipular o mapa com a API, e durante os 15 minutos finais você vai apreciar alguns cases e idéias para incorporar esta API ao seu dia-a-dia."
+  subtype: presentation
+  speakers: [5]
   language: pt-BR
   complexity: "Intermediate"
-  # presentation: "http://slideshare.net/juarezpaf/ionic-adventures-hybrid-mobile-development-rocks"
 -
-  id: 111
-  title: "Instrutora WTM JavaScript Codelab"
-  description: "O WTM JavaScript Codelab tem como objetivo ensinar o básico dessa poderosa linguagem para meninas que se interessam em se aventurar no Desenvolvimento Web. As mesmas meninas que participarem desse Codelab poderão assistir as palestras da tarde do JSday e ver o quão versátil é o que elas aprenderam pela manhã.﻿"
-  subtype: Codelab
-  speakers: [9]
+  id: 105
+  title: "Em breve"
+  description: "Em breve"
+  subtype: presentation
+  speakers: [7]
   language: pt-BR
   complexity: "Beginner"
-
+-
+  id: 106
+  title: "Accessibility and JS: side-by-side"
+  description: "Through out history, JS has been pointed out as the villain when the matter is accessible websites. By presenting some tricks and techniques, we plan to provoke this discussion among developers, and show that Accessibility and JS may live together, as long as you take the right steps."
+  subtype: presentation
+  speakers: [2]
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 107
+  title: "Em breve"
+  description: "Em breve."
+  subtype: presentation
+  speakers: [1]
+  language: pt-BR
+  complexity: "Expert"
+-
+  id: 200
+  title: "Angular"
+  description: "Angular é um framework javascript baseado no padrão de desenvolvomento de software MVC. Algumas de suas poderosas características são: Extender o vocabulario html, criando componentes totalmente customizados de acordo com dados relevantes e que se comunicam entre si."
+  subtype: Codelab
+  speakers: [10,1]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 201
+  title: "WTM JavaScript Codelab"
+  description: "O WTM JavaScript Codelab tem como objetivo ensinar o básico dessa poderosa linguagem para meninas que se interessam em se aventurar no Desenvolvimento Web. As mesmas meninas que participarem desse Codelab poderão assistir as palestras da tarde do JSday e ver o quão versátil é o que elas aprenderam pela manhã.﻿"
+  subtype: Codelab
+  speakers: [6,9]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 202
+  title: "Firebase"
+  description: ""
+  subtype: Codelab
+  speakers: [3]
+  language: pt-BR
+  complexity: "Beginner"
+-
+  id: 203
+  title: "Robotica com JavaScript"
+  description: ""
+  subtype: Codelab
+  # speakers: [9]
+  language: pt-BR
+  complexity: "Beginner"
