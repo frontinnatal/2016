@@ -8,7 +8,7 @@
 -
   group: ""
   elements:
-    - {name: "Appcelerator", description: "Mobile App Development Platform – Appcelerator", link: "http://www.appcelerator.com/", imageUrl: "Appcelerator-logo.png", width: "320px"}
+    - {name: "Appcelerator", description: "Mobile App Development Platform – Appcelerator", link: "http://www.appcelerator.com/", imageUrl: "Appcelerator-logo.png", width: "340px"}
     - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "160px"}
     - {name: "YLD", description: "YLD! Limited, Node.js Consulting from London", link: "https://yld.io/", imageUrl: "yld.jpg", width: "140px"}
 -
