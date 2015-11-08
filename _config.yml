@@ -44,7 +44,7 @@ c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2015"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "JS Experts"}
-  - {permalink: "/schedule/", text: "Lineup"}
+ - {permalink: "/schedule/", text: "Lineup"}
  - {link: "http://bit.ly/c4pjsdayrec", text: "Call for Papers"}
  - {permalink: "/wtm-javascript-codelab/", text: "WTM JavaScript Codelab"}
 bottomNavigationLinks:
