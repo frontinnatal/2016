@@ -1,14 +1,14 @@
 -
   group: ""
   elements:
-    - {name: "Code School", description: "Code School is an online learning destination for existing and aspiring developers that teaches through entertaining content.", link: "http://www.codeschool.com/jsdayrecife ", imageUrl: "codeschool.png", width: "525px"}
+    - {name: "Code School", description: "Code School is an online learning destination for existing and aspiring developers that teaches through entertaining content.", link: "http://www.codeschool.com/jsdayrecife ", imageUrl: "codeschool.png", width: "545px"}
     - {name: "Facebook", description: "Crie uma conta ou entre no Facebook. Conecte-se com amigos, familiares e outras pessoas que você conheça. Compartilhe fotos e vídeos, envie mensagens e ...", link: "http://www.facebook.com/", imageUrl: "facebook.png", width: "505px"}
     - {name: "CESAR", description: "Somos um centro privado de inovação que cria produtos, serviços e negócios com Tecnologias da Informação e Comunicação (TICs).", link: "http://www.cesar.org.br", imageUrl: "cesar.png", width: "209px"}
     - {name: "CESAR.EDU", description: "O CESAR, premiado centro de inovação, traz para a comunidade a sua unidade educacional, o CESAR.EDU.", link: "http://www.cesar.edu.br/", imageUrl: "cesar-edu.png", width: "209px"}
 -
   group: ""
   elements:
-    - {name: "Appcelerator", description: "Mobile App Development Platform – Appcelerator", link: "http://www.appcelerator.com/", imageUrl: "Appcelerator-logo.png", width: "320px"}
+    - {name: "Appcelerator", description: "Mobile App Development Platform – Appcelerator", link: "http://www.appcelerator.com/", imageUrl: "Appcelerator-logo.png", width: "340px"}
     - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "160px"}
     - {name: "YLD", description: "YLD! Limited, Node.js Consulting from London", link: "https://yld.io/", imageUrl: "yld.jpg", width: "140px"}
 -
