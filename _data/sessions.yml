@@ -111,12 +111,12 @@
   complexity: "Beginner"
 -
   id: 202
-  title: "Firebase"
-  description: ""
+  title: "Getting started with Firebase"
+  description: "In this workshop you will learn how to use Firebase to empower your web applications using all features provided by Firebase like realtime database, authentication, hosting and much more."
   subtype: Codelab
   speakers: [3]
   language: pt-BR
-  complexity: "Beginner"
+  complexity: "Intermediate"
 -
   id: 203
   title: "Robotica com JavaScript"
