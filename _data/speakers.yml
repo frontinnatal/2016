@@ -127,3 +127,14 @@
   thumbnailUrl: karla.jpg
   social:
     - {name: "twitter", link: "http://twitter.com/karlapsfalcao"}
+-
+  id: 11
+  name: "Maira"
+  surname: "Bello"
+  company: "Liferay"
+  title: "Líder técnica do time de frontend na Liferay da América Latina"
+  bio: "Maíra começou a trabalhar com frontend no Facebook, onde ficou por 2 anos no time Mensagens. Lá teve a chance de trabalhar com React, Flux e Jest quando estes ainda estavam em desenvolvimento. Agora está na Liferay há aproximadamente 1 ano e meio, trabalhando principalmente em projetos open source da empresa, como o AlloyUI e o Metal.js."
+  thumbnailUrl: mairabello.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/mairatma"}
+    - {name: "github", link: "https://github.com/mairatma"}

@@ -125,3 +125,11 @@
   # speakers: [9]
   language: pt-BR
   complexity: "Beginner"
+  -
+    id: 204
+    title: "Metal.js - Contruindo componentes com ES6"
+    description: "Por diversos anos a Liferay tem usado YUI como o principal biblioteca JavaScript da empresa. Em 2014, no entanto, a Yahoo anunciou que o YUI seria abandonado, sem mais manutenção. Agora era necessária outra biblioteca para substituí-lo, o que tornou-se uma oportunidade para modernizar o JavaScript da empresa, usando tecnologias mais recentes. Daí surgiu o Metal.js, uma nova biblioteca open source muito poderosa e com poucos KB, e que já usa ES6. Venha aprender como ela funciona e como usá-la em seus projetos!"
+    subtype: presentation
+    speakers: [11]
+    language: pt-BR
+    complexity: "Intermediate"
