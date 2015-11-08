@@ -148,3 +148,14 @@
   social:
     - {name: "twitter", link: "https://twitter.com/mairatma"}
     - {name: "github", link: "https://github.com/mairatma"}
+-
+  id: 13
+  name: "Guilherme"
+  surname: "Farias"
+  company: "Leet"
+  title: "CTO na Leet"
+  bio: "Desenvolvedor web, formado em Sistemas de Informação, já passou por PHP e Java, mas se apaixonou pelo JavaScript desde seu primeiro contato, hoje sempre o utiliza em todos os lugares, desde aplicativos mobile até desktops, foca atualmente em AngularJS e NodeJS, mas também é entusiasmado com todo tipo de tecnologia que possa tornar o seu trabalho mais produtivo e divertido :) É CTO na Leet, empresa pernambucana que desenvolve sistemas para o mercado de mídias sociais e conta com milhares de clientes em todo o Brasil."
+  thumbnailUrl: guilhermefarias.jpg
+  social:
+    - {name: "twitter", link: "http://twitter.com/guiky"}
+    - {name: "github", link: "http://github.com/guilhermefarias"}
