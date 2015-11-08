@@ -5,7 +5,7 @@
   tracks:
     - {title: "Crockford", color: "#f7df1e", description: "Track A"}
     - {title: "Stefanov", color: "#f7df1e", description: "Track B"}
-    - {title: "Maujor", color: "#f7df1e", description: "Track Maker"}
+    - {title: "Maujor", color: "#f7df1e", description: "Track C"}
   timeslots:
     - {
         startTime: "8:00",
@@ -25,7 +25,7 @@
     - {
         startTime: "10:00",
         endTime: "10:45",
-        sessionIds: [006,102,006]
+        sessionIds: [006,102,206]
     }
     - {
         startTime: "10:45",
@@ -35,7 +35,7 @@
     - {
         startTime: "11:30",
         endTime: "12:00",
-        sessionIds: [006,006,006]
+        sessionIds: [205,006,006]
     }
     - {
         startTime: "12:00",
@@ -45,7 +45,7 @@
     - {
         startTime: "14:00",
         endTime: "14:45",
-        sessionIds: [103,006,006]
+        sessionIds: [103,006,204]
     }
     - {
         startTime: "14:45",
@@ -77,8 +77,8 @@
   date: "2015-9-12"
   dateReadable: "Workshops"
   tracks:
-    - {title: "Brendan Eich", color: "#f7df1e", description: "Workshops JS"}
-    - {title: "Radia Perlman", color: "#f7df1e", description: "Workshops W/"}
+    - {title: "Brendan Eich", color: "#f7df1e", description: "Codelab"}
+    - {title: "Radia Perlman", color: "#f7df1e", description: "Codelab"}
   timeslots:
     - {
         startTime: "8:00",

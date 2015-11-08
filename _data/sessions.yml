@@ -142,7 +142,7 @@
   language: pt-BR
   complexity: "Intermediate"
 -
-  id: 205
+  id: 206
   title: "Já está na hora de você começar a aprender o NodeJS!"
   description: "Todo mundo fala de NodeJS certo? mas porque ele é tão diferente, o que ele tem de especial e porque eu deveria aprender? Essas e outras dúvidas serão esclarecidas nesta palestra, além de conhecer o caminho inicial para dá um start nessa nova tecnologia e aproveitar novas oportunidades na sua carreira!"
   subtype: presentation
