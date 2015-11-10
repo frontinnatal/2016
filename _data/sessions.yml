@@ -149,3 +149,11 @@
   speakers: [13]
   language: pt-BR
   complexity: "Beginner"
+-
+  id: 207
+  title: "O ciclo de vida do App: Desenvolvimento, Integração e Analytics atuando de forma integrada"
+  description: "Como suportar o desenvolvimento ágil de Apps nativos multiplataforma (Titanium), integrar múltiplas fontes de dados internas e externas (Arrow), e conhecer a experiência do usuário através de Analytics em tempo real (Performance e Comportamento do Usuário). A solução Appcelerator tem como base JS no front-end (Titanium) e back-end (Arrow). O App “perfeito” é resultado de um processo de melhoria contínua com base em métricas claras. Além disso, a visibilidade do comportamento do usuários gera maior engajamento e alavanca o potencial de negócio do seu Apps."
+  subtype: presentation
+  speakers: [14]
+  language: pt-BR
+  complexity: "Intermediate"
