@@ -6,10 +6,10 @@
     - {name: "HUGE", description: "Huge is a full service digital agency headquartered in Brooklyn with offices worldwide. We transform brands and build businesses.", link: "http://www.hugeinc.com/", imageUrl: "huge.png", width: "209px"}
     - {name: "CESAR", description: "Somos um centro privado de inovação que cria produtos, serviços e negócios com Tecnologias da Informação e Comunicação (TICs).", link: "http://www.cesar.org.br", imageUrl: "cesar.png", width: "209px"}
     - {name: "CESAR.EDU", description: "O CESAR, premiado centro de inovação, traz para a comunidade a sua unidade educacional, o CESAR.EDU.", link: "http://www.cesar.edu.br/", imageUrl: "cesar-edu.png", width: "209px"}
+    - {name: "Appcelerator", description: "Mobile App Development Platform – Appcelerator", link: "http://www.appcelerator.com/", imageUrl: "Appcelerator-logo.png", width: "505px"}
 -
   group: ""
   elements:
-    - {name: "Appcelerator", description: "Mobile App Development Platform – Appcelerator", link: "http://www.appcelerator.com/", imageUrl: "Appcelerator-logo.png", width: "340px"}
     - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "160px"}
     - {name: "YLD", description: "YLD! Limited, Node.js Consulting from London", link: "https://yld.io/", imageUrl: "yld.jpg", width: "140px"}
 -
