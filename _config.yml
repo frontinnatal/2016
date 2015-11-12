@@ -189,7 +189,7 @@ footerBlocks:
   title: "FAQ"
   links:
    - {link: "http://pt-br.confcodeofconduct.com/", text: "Código de Conduta"}
-   - {link: "https://womentechmakers.com", text: "WTM (Women Techmakers)"}
+   - {link: "http://womentechmakers.com", text: "WTM (Women Techmakers)"}
 
 # Blog
 blogTitle: "Latest news"
