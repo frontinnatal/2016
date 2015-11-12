@@ -122,7 +122,7 @@
   title: "Dando vida ao Arduino com JS"
   description: "A galera do ArduRec vai até o JS Day para mostrar que JS já está controlando os embarcados. No workshop vamos sair do zero e aprender como controlar uma Arduino utilizando Java Script."
   subtype: Codelab
-  speakers: [15]
+  speakers: [15,17,18]
   language: pt-BR
   complexity: "Beginner"
 -

@@ -192,3 +192,22 @@
   social:
     - {name: "twitter", link: "https://twitter.com/lulzaugusto"}
     - {name: "github", link: "https://github.com/lulzaugusto"}
+-
+  id: 17
+  name: "Lhaís"
+  surname: "Rodrigues"
+  company: "Women Makers"
+  title: "Engenharia da Computação pelo CIn-UFPE"
+  bio: "Criadora e Fundadora do Women Makers, Microsoft Student Partner e Colaboradora do ArduRec. Nas horas vagas, desenvolve projetos com a área de Sistemas Embarcados e Internet das Coisas e, gosta de dar palestras sobre inspiração e motivação para fazer com as pessoas acreditem nos seus sonhos."
+  thumbnailUrl: lhaisrodrigues.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/lhaisrs_"}
+    - {name: "github", link: "https://github.com/lhaisrs"}
+-
+  id: 18
+  name: "Gabriel"
+  surname: "Bandeira"
+  company: "CIn/UFPE"
+  title: "Grupo de Pesquisa em Realidade Virtual e Multimídia"
+  bio: "Graduando em Engenharia da Computação pelo CIn. Participou várias vezes das competições OBR e RoboCup ao longo dos últimos 4 anos, usando muitas vezes a Arduino. Atualmente está ligado ao Grupo de Pesquisa em Realidade Virtual e Multimídia (GRVM – CIn/UFPE), onde faz projetos ligados a Robótica e a Visão Computacional. Usa, entre outras plataformas, a Arduino."
+  thumbnailUrl: gabrielbandeira.jpg
