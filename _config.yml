@@ -175,7 +175,6 @@ footerBlocks:
    - {link: "http://fb.com/caravanaweb", text: "Caravana Web"}
    - {link: "https://yld.io/", text: "YLDio"}
    - {link: "http://robolivre.org", text: "Robolivre.org"}
-   - {link: "https://womentechmakers.com", text: "Women Techmakers"}
  -
   title: "Edições Anteriores"
   links:
@@ -190,6 +189,7 @@ footerBlocks:
   title: "FAQ"
   links:
    - {link: "http://pt-br.confcodeofconduct.com/", text: "Código de Conduta"}
+   - {link: "https://womentechmakers.com", text: "WTM (Women Techmakers)"}
 
 # Blog
 blogTitle: "Latest news"
