@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "JS Experts"}
  - {permalink: "/schedule/", text: "Lineup"}
  - {link: "http://bit.ly/c4pjsdayrec", text: "Call for Papers"}
- - {permalink: "/wtm-javascript-codelab/", text: "WTM JavaScript Codelab"}
+
 bottomNavigationLinks:
  - {link: "http://even.tc/jsday-recife-2015", text: "Inscreva-se <3"}
 rightNavigationButtons:
@@ -166,15 +166,21 @@ footerBlocks:
  -
   title: "Links"
   links:
+   - {link: "http://cesar.org.br", text: "C.E.S.A.R"}
    - {link: "http://cesar.edu.br", text: "CESAR.EDU"}
-   - {link: "http://cesar.org.br", text: "CESAR"}
+   - {link: "http://www.codeschool.com/jsdayrecife", text: "Code School"}
+   - {link: "http://www.facebook.com/", text: "Facebook"}
+   - {link: "http://www.hugeinc.com/", text: "HUGE"}
+   - {link: "http://www.appcelerator.com/", text: "Appcelerator"}
    - {link: "http://fb.com/caravanaweb", text: "Caravana Web"}
+   - {link: "https://yld.io/", text: "YLDio"}
    - {link: "http://robolivre.org", text: "Robolivre.org"}
    - {link: "https://womentechmakers.com", text: "Women Techmakers"}
  -
   title: "Edições Anteriores"
   links:
    - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
+   - {permalink: "/wtm-javascript-codelab/", text: "JSday Maceió Codelab WTM JavaScript"}
    - {link: "http://fsa.jsday.com.br", text: "JSday Feira de Santana"}
  -
   title: "Contato"
