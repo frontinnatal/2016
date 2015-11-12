@@ -162,6 +162,6 @@
   title: "Prototype: mastering JS object orientation without classes"
   description: "A orientação a objetos do JavaScript se diferencia da maioria das linguagens tradicionais por utilizar o conceito de protótipos. Nessa palestra você aprenderá a utilizar este conceito ao seu favor para construir objetos de maneira dinâmica e flexível, de uma maneira que a nova sintaxe de classes não permite."
   subtype: presentation
-  speakers: [15]
+  speakers: [16]
   language: pt-BR
   complexity: "Intermediate"
