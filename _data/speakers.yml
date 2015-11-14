@@ -211,3 +211,11 @@
   title: "Grupo de Pesquisa em Realidade Virtual e Multimídia"
   bio: "Graduando em Engenharia da Computação pelo CIn. Participou várias vezes das competições OBR e RoboCup ao longo dos últimos 4 anos, usando muitas vezes a Arduino. Atualmente está ligado ao Grupo de Pesquisa em Realidade Virtual e Multimídia (GRVM – CIn/UFPE), onde faz projetos ligados a Robótica e a Visão Computacional. Usa, entre outras plataformas, a Arduino."
   thumbnailUrl: gabrielbandeira.jpg
+-
+  id: 19
+  name: "Raquel"
+  surname: "Guimarães"
+  company: "ThoughtWorks Brasil"
+  title: "Desenvolvedora"
+  bio: "Possui mais de cinco anos de experiência com desenvolvimento web, bacharel em ciência da computação pela UFCG. Atualmente trabalha com consultoria e desenvolvimento na ThoughtWorks Brasil, tentando aprender como aplicar os conceitos de metodologias ágeis em grandes projetos."
+  thumbnailUrl: raquel.jpg
