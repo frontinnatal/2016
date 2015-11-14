@@ -165,3 +165,11 @@
   speakers: [16]
   language: pt-BR
   complexity: "Intermediate"
+-
+  id: 209
+  title: "D3JS  Visualização de Dados com JavaScript"
+  description: "Nos dias de hoje, onde as pessoas estão cada vez mais preguiçosas torna-se uma dificuldade engajar  usuários a visualizarem e analisarem  um conjunto de informações para tomada de decisões. Surge então uma necessidade de transmitir  informações de forma simplificada que permitia uma rápida leitura, compreensão e tomada de decisão sobre um certo assunto, dai aparece o conceito a Visualização de Dados (Data Visualization), que  é a representação visual de dados de maneira intuitiva e clara  ao usuário com recurso a mecanismos gráficos. Esta "técnica" traz inúmeras vantagens, dentre elas, a facilidade de interpretação dos dados, a  rápida leitura e acesso aos dados, reduzindo a má interpretação das informações. Num mundo mais conectado, onde cada vez mais pessoas estão ligadas a web,  utilizaremos JavaScript e a sua biblioteca D3JS  para apresentar o conceito visualização de Dados."
+  subtype: presentation
+  speakers: [20]
+  language: pt-BR
+  complexity: "Intermediate"

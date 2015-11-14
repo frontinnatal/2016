@@ -219,3 +219,11 @@
   title: "Desenvolvedora"
   bio: "Possui mais de cinco anos de experiência com desenvolvimento web, bacharel em ciência da computação pela UFCG. Atualmente trabalha com consultoria e desenvolvimento na ThoughtWorks Brasil, tentando aprender como aplicar os conceitos de metodologias ágeis em grandes projetos."
   thumbnailUrl: raquel.jpg
+-
+  id: 20
+  name: "Adilson"
+  surname: "Mandlate"
+  company: "Kukuma"
+  title: "FrontEnd Developer"
+  bio: "Adilson Xavier Mandlate "As pessoas classificam sempre pela aparência". Adilson Mandlate é um pesquisador e desenvolvedor Frontend, amante de produtos e serviços tecnológicos que tenham impacto na vida dos usuários. É estudante finalista de Ciência de Computação da Universidade São Tomás de Moçambique, membro e contribuidor activo no desenvolvimento de soluções web na comunidade MozDevz, actualmente é Vice-Presidente Sénior de aplicações e serviços web na startup Kukuma Tech"
+  thumbnailUrl: adilsonmandlate.jpg
