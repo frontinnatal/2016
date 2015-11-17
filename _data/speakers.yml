@@ -219,3 +219,15 @@
   title: "Desenvolvedora"
   bio: "Possui mais de cinco anos de experiência com desenvolvimento web, bacharel em ciência da computação pela UFCG. Atualmente trabalha com consultoria e desenvolvimento na ThoughtWorks Brasil, tentando aprender como aplicar os conceitos de metodologias ágeis em grandes projetos."
   thumbnailUrl: raquel.jpg
+-
+  id: 20
+  name: "Caio"
+  surname: "Vaccaro"
+  company: "HUGE"
+  title: "Front-End Developer"
+  bio: ""
+  thumbnailUrl: caiovaccaro.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "http://twitter.com/brunolimawd"}
+    - {name: "github", link: "http://github.com/brunolimawd"}
