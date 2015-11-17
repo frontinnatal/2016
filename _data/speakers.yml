@@ -220,22 +220,17 @@
   bio: "Possui mais de cinco anos de experiência com desenvolvimento web, bacharel em ciência da computação pela UFCG. Atualmente trabalha com consultoria e desenvolvimento na ThoughtWorks Brasil, tentando aprender como aplicar os conceitos de metodologias ágeis em grandes projetos."
   thumbnailUrl: raquel.jpg
 -
-  id: 20
-  name: "Adilson"
-  surname: "Mandlate"
-  company: "Kukuma"
-  title: "Front-End Developer"
-  bio: "Pesquisador e desenvolvedor Frontend, amante de produtos e serviços tecnológicos que tenham impacto na vida dos usuários. É estudante finalista de Ciência de Computação da Universidade São Tomás de Moçambique, membro e contribuidor activo no desenvolvimento de soluções web na comunidade MozDevz, actualmente é Vice-Presidente Sénior de aplicações e serviços web na startup Kukuma Tech."
-  thumbnailUrl: adilsonmandlate.jpg
+  id: 25
+  name: "Wilson"
+  surname: "Mendes"
+  company: "GDE AngularJS"
+  title: "Google Developer Expert"
+  bio: "Wilson é GDE (Google Developer Expert) de AngularJS, organizador do GDG Salvador, apaixonado por tecnologia e ativo em várias comunidades com foco em desenvolvimento web, incluindo AngularJS, JavaScript, HTML5, CSS3, Workflow, web performance e segurança. Participa de organizações de eventos, palestra em conferências pelo Brasil e contribui com vários projetos open source."
+  thumbnailUrl: wilson-mendes.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/wilson-mendes"}
   social:
-    - {name: "facebook", link: "http://www.facebook.com/adilson.mandlate"}
--
-  id: 21
-  name: "Caio"
-  surname: "Vaccaro"
-  company: "HUGE"
-  title: "Front-End Developer"
-  bio: "Com sete anos de experiência em programação, trabalha principalmente como Senior Web Engineer. Participou de diversas startups e projetos, incluindo a Tátil Design. Também trabalhou em agências como a TUUT e atualmente está na HUGE Inc, uma empresa americana focada em criar experiências digitais. Lá lidera uma equipe de desenvolvimento, garantindo boas práticas e processo eficiente, além de atuar em Front-End, Back-End e Continuous Integration."
-  thumbnailUrl: caiovaccaro.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/caiovaccaro"}
+    - {name: "google-plus", link: "https://plus.google.com/+WilsonMendes"}
+    - {name: "twitter", link: "https://twitter.com/willmendesneto"}
+    - {name: "github", link: "https://github.com/willmendesneto"}
