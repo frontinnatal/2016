@@ -219,18 +219,3 @@
   title: "Desenvolvedora"
   bio: "Possui mais de cinco anos de experiência com desenvolvimento web, bacharel em ciência da computação pela UFCG. Atualmente trabalha com consultoria e desenvolvimento na ThoughtWorks Brasil, tentando aprender como aplicar os conceitos de metodologias ágeis em grandes projetos."
   thumbnailUrl: raquel.jpg
--
-  id: 25
-  name: "Wilson"
-  surname: "Mendes"
-  company: "GDE AngularJS"
-  title: "Google Developer Expert"
-  bio: "Wilson é GDE (Google Developer Expert) de AngularJS, organizador do GDG Salvador, apaixonado por tecnologia e ativo em várias comunidades com foco em desenvolvimento web, incluindo AngularJS, JavaScript, HTML5, CSS3, Workflow, web performance e segurança. Participa de organizações de eventos, palestra em conferências pelo Brasil e contribui com vários projetos open source."
-  thumbnailUrl: wilson-mendes.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/wilson-mendes"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+WilsonMendes"}
-    - {name: "twitter", link: "https://twitter.com/willmendesneto"}
-    - {name: "github", link: "https://github.com/willmendesneto"}
