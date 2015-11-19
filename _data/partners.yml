@@ -13,6 +13,7 @@
     - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "160px"}
     - {name: "YLD", description: "YLD! Limited, Node.js Consulting from London", link: "https://yld.io/", imageUrl: "yld.jpg", width: "140px"}
     - {name: "Romanick", description: "Camisas com preço de fábrica, com cores maravilhosas da estação e serviços de serigrafia, bordado e sublimação.", link: "http://romanick.com.br/", imageUrl: "romanick.png", width: "180px"}
+    - {name: "Tago", description: "Tago provides easy connection of electronic devices with external data to driver smarter decisions using contextual analysis. Our APIs, dashboards and scripts enable real time data analysis quickly at very low cost...", link: "https://tago.io/", imageUrl: "tago.png", width: "180px"}
 -
   group: ""
   elements:
