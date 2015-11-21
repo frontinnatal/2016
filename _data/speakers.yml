@@ -235,8 +235,22 @@
   title: "Front-End Developer"
   bio: "Com sete anos de experiência em programação, trabalha principalmente como Senior Web Engineer. Participou de diversas startups e projetos, incluindo a Tátil Design. Também trabalhou em agências como a TUUT e atualmente está na HUGE Inc, uma empresa americana focada em criar experiências digitais. Lá lidera uma equipe de desenvolvimento, garantindo boas práticas e processo eficiente, além de atuar em Front-End, Back-End e Continuous Integration."
   thumbnailUrl: caiovaccaro.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/caiovaccaro"}
     - {name: "github", link: "https://github.com/caiovaccaro"}
     - {name: "linkedin", link: "http://linkedin.com/in/caiovaccaro"}
+-
+  id: 22
+  name: "Joselito"
+  surname: "Júnior"
+  company: "Tampa Works"
+  title: "Instrutor"
+  bio: "Organizador do GDG Recife, co-criador e instrutor dos cursos AngularJS Bootcamp e PhoneGap Bootcamp, e fundador das startups premiadas Estudorama e Rabiscapp. Além de ganhador de Hackathons profissional, é entusiasta do Design Thinking, Lean Startup e desenvolvimento Ágil de software. Fã de Fórmula 1 e de fazer piadas de gosto duvidoso."
+  thumbnailUrl: joselito_junior.png
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/joselitojunior1"}
+    - {name: "github", link: "https://github.com/joselitojunior"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/joselitojunior"}
+    - {name: "linkedin", link: "https://www.facebook.com/joselitojr"}
