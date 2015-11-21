@@ -261,3 +261,16 @@
     - {name: "github", link: "https://github.com/joselitojunior"}
     - {name: "linkedin", link: "https://br.linkedin.com/in/joselitojunior"}
     - {name: "facebook", link: "https://www.facebook.com/joselitojr"}
+-
+  id: 23
+  name: "Anderson"
+  surname: "Bispo"
+  company: "CESAR"
+  title: "Engenheiro de Software"
+  bio: "Desenvolvedor web há mais de 10 anos. A princípio somente como desenvolvedor backend mas cada vez mais inserido no desenvolvimento frontend. Ferramentas que mais utiliza no momento: Python/Django, Ruby on Rails, CoffeeScript e React.JS. Nas horas vagas curte ver filmes, séries e tomar uma cerveja com amigos."
+  thumbnailUrl: anderson.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/abispo"}
+    - {name: "github", link: "https://github.com/andersonbispo"}
+    - {name: "linkedin", link: "https://br.linkedin.com/pub/anderson-bispo/a/704/29b"}

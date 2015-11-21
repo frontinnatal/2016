@@ -189,3 +189,11 @@
   speakers: [22]
   language: pt-BR
   complexity: "Intermediate"
+-
+  id: 212
+  title: "React.JS: A Evolução do Desenvolvimento Frontend"
+  description: "Uma visão geral dos motivos que tornam o React.JS tão atraente no momento e suas contribuições para a evolução do desenvolvimento frontend."
+  subtype: presentation
+  speakers: [23]
+  language: pt-BR
+  complexity: "Intermediate"
