@@ -184,7 +184,7 @@
 -
   id: 211
   title: "Physical Web: a internet vem pra rua"
-  description: "O Physical Web é uma maneira totalmente diferente de usar a web: sob demanda, permitindo iterações com seu smartphone com outro "smart device" diretamente, sem precisar baixar nenhum app. A talk mostra o potencial de o Physical Web tem de modificar a maneira com que interagimos com as coisas e também um caminho de como implementar com o seu beacon."
+  description: "O Physical Web é uma maneira totalmente diferente de usar a web: sob demanda, permitindo iterações com seu smartphone com outro \"smart device\" diretamente, sem precisar baixar nenhum app. A talk mostra o potencial de o Physical Web tem de modificar a maneira com que interagimos com as coisas e também um caminho de como implementar com o seu beacon."
   subtype: presentation
   speakers: [22]
   language: pt-BR
