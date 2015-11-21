@@ -6,7 +6,7 @@
   title: "Google Developer Expert"
   bio: "Wilson é GDE (Google Developer Expert) de AngularJS, organizador do GDG Salvador, apaixonado por tecnologia e ativo em várias comunidades com foco em desenvolvimento web, incluindo AngularJS, JavaScript, HTML5, CSS3, Workflow, web performance e segurança. Participa de organizações de eventos, palestra em conferências pelo Brasil e contribui com vários projetos open source."
   thumbnailUrl: wilson-mendes.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/people/wilson-mendes"}
   social:
@@ -17,7 +17,7 @@
   id: 2
   name: "Felipe"
   surname: "de Albuquerque"
-  company: "C.E.S.A.R"
+  company: "CESAR"
   title: "Front End Engineer"
   bio: "Web Designer e Front-End Developer com mais de dez anos de experiência em desenvolvimento de software, entre aplicações web, mobile e para Tv Digital. Atualmente trabalha no CESAR Recife, onde participa de projetos relevantes e para clientes de grande porte, como a Samsung, Motorola, Coca-cola, Fiat e atualmente em projetos da HP. Também faz parte do corpo docente do CESAR EDU, entre outras iniciativas acadêmicas e de mentoring. Tem interesse em ciência e tecnologia, arte, música e brinquedos tecnológicos."
   thumbnailUrl: felipedeolinda.jpg
@@ -46,7 +46,7 @@
   id: 4
   name: "Bruno"
   surname: "Lima"
-  company: "C.E.S.A.R"
+  company: "CESAR"
   title: "Front-End Developer"
   bio: "Web Developer, recifense, headbanger, motociclista e apaixonado por desenvolvimento web, focado no front-end. Mais de 7 anos de experiencia, passando por empresas de softwares e o agitado mercado de agência. Foi líder da equipe de Front-end na Fishy em Recife e atualmente é Front-end Developer no CESAR. É voluntário da Mozilla, apoiando e desenvolvendo a open web e neutralidade da rede. E também é membro do NodeBots Rec, fazendo robôs muito loucos com JavaScript."
   thumbnailUrl: brunolimawd.jpg
@@ -88,14 +88,14 @@
   name: "Henrique"
   surname: "Foresti"
   company: "Robô Livre"
-  title: "C.E.S.A.R e Fundador da Robô Livre"
+  title: "CESAR e Fundador da Robô Livre"
   bio: "Henrique Foresti é mineiro, natural de Varginha, atua nas áreas de Robótica e Eletrônica Embarcada. É engenheiro de sistemas do Bio Robotics Fusion, área que desenvolve a Robótica e Biologia Sintética no CESAR, idealizador da plataforma Robô Livre e professor do curso tecnólogo em Engenharia Mecatrônica do SENAI. Graduou-se em Ciências da Computação pela UEMG e é Mestre em Engenharia Mecânica pela UFPE. Atua também como curador dos principais eventos de Robótica e Tecnologia da América Latina e desenvolve projetos de pesquisa e inovação em parceria com diversas instituições, em especial nas áreas de robôs domésticos, robótica pedagógica, robôs terrestres, veículos aéreos não tripulados e plataformas de telemetria, processamento e comunicação."
   thumbnailUrl: henriqueForesti.jpg
 -
   id: 8
   name: "Aleff"
   surname: "Souza"
-  company: "C.E.S.A.R"
+  company: "CESAR"
   title: "Engenheiro de sistemas"
   bio: "Atualmente trabalha no CESAR, graduando em Ciências da Computação na UFPE, fã de Open Source, Scala & Node.js entusiasta, preparando-se para o apocalipse lambda e viciado em café <3"
   thumbnailUrl: aleffsouza.jpg
@@ -121,7 +121,7 @@
   id: 10
   name: "Karla"
   surname: "Falcão"
-  company: "C.E.S.A.R"
+  company: "CESAR"
   title: "Engenheira de Software"
   bio: "Venho trabalhando com desenvolvimento web desde 2011, atuando principalmente no front-end usando tecnologias como Javascript, PHP, HTML, CSS em conjunto com  frameworks, libs e hacks para dar mais dinamismo e acessibilidade ao maravilhoso mundo da WEB. Em 2013 comecei a me aventurar com AngularJS e NodeJS com as quais trabalho desde então."
   thumbnailUrl: karla.jpg
@@ -131,7 +131,7 @@
   id: 11
   name: "Daniel"
   surname: "Ferreira"
-  company: "C.E.S.A.R"
+  company: "CESAR"
   title: "Engenheiro de Sistemas"
   bio: "Possui mais de 12 anos de experiência em desenvolvimento com tecnologias Microsoft, especialmente com C# e ASP.NET. Ao longo da carreira, foco em desenvolvimento web e mobile, obteve certificações Microsoft .NET e XAML e premiações em competições como a Microsoft Imagine Cup. Há mais de 3 anos lecionando em universidades sobre desenvolvimento para Windows Phone e atualmente trabalha como engenheiro de sistemas no CESAR. Nas horas vagas, ou está no Kindle ou no PS4 :)"
   thumbnailUrl: danielferreira.jpg
@@ -173,10 +173,11 @@
   id: 15
   name: "Lucas"
   surname: "Cavalcanti"
-  company: "C.E.S.A.R"
-  title: "Técnico de Sistemas / ArduRec - Co-Founder"
-  bio: "Bi-campeão Latino Americano da RoboCup @Home e da Olimpíada Brasileira de Robótica, é colaborador do CESAR, membro do ArduRec e orientador da equipe de robótica Positronics. Começou a trabalhar com robótica em 2008, e atualmente tem como hobby montar robôs de baixo custo, utilizando Arduino e impressão 3D."
+  company: "CESAR"
+  title: "Bi-campeão Latino Americano da RoboCup"
+  bio: "Lucas é Colaborador do CESAR, Co-Founder do ArduRec e é orientador da equipe de robótica Positronics. Bi-campeão Latino Americano da RoboCup @Home e da Olimpíada Brasileira de Robótica. Começou a trabalhar com robótica desde 2008, e atualmente tem como hobby montar robôs de baixo custo, utilizando Arduino e impressão 3D."
   thumbnailUrl: lucascavalcanti.jpg
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://br.linkedin.com/in/lhcavalcanti"}
     - {name: "twitter", link: "https://twitter.com/lhcavalcanti"}
