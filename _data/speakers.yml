@@ -145,6 +145,7 @@
   title: "Líder técnica do time de frontend na Liferay da América Latina"
   bio: "Maíra começou a trabalhar com frontend no Facebook, onde ficou por 2 anos no time Mensagens. Lá teve a chance de trabalhar com React, Flux e Jest quando estes ainda estavam em desenvolvimento. Agora está na Liferay há aproximadamente 1 ano e meio, trabalhando principalmente em projetos open source da empresa, como o AlloyUI e o Metal.js."
   thumbnailUrl: mairabello.jpg
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/mairatma"}
     - {name: "github", link: "https://github.com/mairatma"}
@@ -167,6 +168,7 @@
   title: "Country Manager"
   bio: "Atuo há mais de 18 anos nas áreas de Telecom e Software com foco em Marketing e Vendas. Atuei na Claro, TIM Brasil, Spring Mobile Solutions, Now Prepay & CA Technologies (sempre com Mobile!). Morei muitos anos no Canadá, onde fiz meu MBA (McGill University) e trabalhei na Bell Canada. Além de tecnologia, sou apaixonado  por viagens e esportes de aventura!"
   thumbnailUrl: fernandoferreira.jpg
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://br.linkedin.com/in/fernandoscferreira"}
 -
@@ -190,6 +192,7 @@
   title: "Software Development Consultant"
   bio: "Web developer há 3 anos, e sempre achou que seu lugar seria no backend. Porém, a vida lhe desafiou na área de front, o que despertou seu interesse por JavaScript, web components, arquiteturas client-side e testes de interface. Se apaixonou por AngularJS ao construir sua primeira diretiva, e de novo ao utilizar testes automáticos no seu processo de desenvolvimento. Hoje sua principal linguagem é JavaScript e trabalha com AngularJS na Tago.io, onde, entre outras coisas, cria componentes para visualizações de dados em tempo real."
   thumbnailUrl: luiz_algusto.png
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/lulzaugusto"}
     - {name: "github", link: "https://github.com/lulzaugusto"}
@@ -212,6 +215,7 @@
   title: "Grupo de Pesquisa em Realidade Virtual e Multimídia"
   bio: "Graduando em Engenharia da Computação pelo CIn. Participou várias vezes das competições OBR e RoboCup ao longo dos últimos 4 anos, usando muitas vezes a Arduino. Atualmente está ligado ao Grupo de Pesquisa em Realidade Virtual e Multimídia (GRVM – CIn/UFPE), onde faz projetos ligados a Robótica e a Visão Computacional. Usa, entre outras plataformas, a Arduino."
   thumbnailUrl: gabrielbandeira.jpg
+  rockstar: true
 -
   id: 19
   name: "Raquel"
@@ -220,6 +224,7 @@
   title: "Desenvolvedora"
   bio: "Possui mais de cinco anos de experiência com desenvolvimento web, bacharel em ciência da computação pela UFCG. Atualmente trabalha com consultoria e desenvolvimento na ThoughtWorks Brasil, tentando aprender como aplicar os conceitos de metodologias ágeis em grandes projetos."
   thumbnailUrl: raquel.jpg
+  rockstar: true
 -
   id: 20
   name: "Adilson"
@@ -228,6 +233,7 @@
   title: "FrontEnd Developer"
   bio: "Adilson Xavier Mandlate \"As pessoas classificam sempre pela aparência\".Adilson Mandlate é um pesquisador e desenvolvedor Frontend, amante de produtos e serviços tecnológicos que tenham impacto na vida dos usuários. É estudante finalista de Ciência de Computação da Universidade São Tomás de Moçambique, membro e contribuidor activo no desenvolvimento de soluções web na comunidade MozDevz (http://www.mozdevz.org), actualmente é Vice-Presidente Sénior de aplicações e serviços web na startup Kukuma Tech (que actualmente esta fazer uma residência no CESAR.EDU)."
   thumbnailUrl: adilson.jpg
+  rockstar: true
 -
   id: 21
   name: "Caio"
