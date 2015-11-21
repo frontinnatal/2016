@@ -19,5 +19,5 @@
   elements:
     - {name: "Bocoup", description: "Bocoup is an Open Web technology company by and for programmers. We create, support, and advance Open Web technologies through consulting, education, and community development.", link: "http://bocoup.com/", imageUrl: "bocoup.png", width: "150px"}
     - {name: "NPM", description: "npm is the package manager that installs JavaScript programs. npm, Inc. supports the JavaScript community by providing the registry where developers publish and share packaged open-source modules. We're keeping the registry running, and working on new tools make the JavaScript community even more powerful.", link: "https://www.npmjs.com/", imageUrl: "npm.png", width: "110px"}
-    - {name: "ArduRec", description: "A maor comunidade de Arduino de Recife", link: "http://ardurec.com.br/", imageUrl: "ArduRec.png", width: "90px"}
+    - {name: "ArduRec", description: "A maior comunidade de Arduino de Recife", link: "http://ardurec.com.br/", imageUrl: "ArduRec.png", width: "90px"}
     - {name: "Robolivre.org", description: "", link: "http://www.robolivre.org", imageUrl: "robolivre.png", width: "150px"}
