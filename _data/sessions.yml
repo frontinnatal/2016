@@ -213,3 +213,11 @@
   speakers: [24]
   language: pt-BR
   complexity: "Beginner"
+-
+  id: 215
+  title: "Como atingir a famigerada inclusão digital?"
+  description: "A acessibilidade dos softwares possui um papel fundamental no cotidiano das pessoas com deficiência. Mas como é possível fazer com que essas pessoas tenham o direito de acessar as informações, através de ferramentas adequadas? Essa palestra tem o objetivo de mostrar as diversas formas de tornar viável o acesso a ambientes inacessíveis, aproximando assim, todas as pessoas da informação."
+  subtype: presentation
+  speakers: [25]
+  language: pt-BR
+  complexity: "Expert"
