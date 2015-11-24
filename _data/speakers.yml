@@ -283,3 +283,16 @@
   bio: "Atua na Joy Street como Engenheiro de Software, professor da Especialização em Tecnologias para Desenvolvimento de Aplicações Móveis do C.E.S.A.R, Mestre em Engenharia de Software. Possui o Titanium Certified App Developer (TCAD), integrante do grupo Titans da Appcelerator, possui 19 anos de experiência na área de TI, dedicados ao desenvolvimento de aplicações web, móveis e desktop."
   thumbnailUrl: eric_cavalcanti.jpg
   rockstar: false
+-
+  id: 25
+  name: "Virgínia"
+  surname: "Chalegre"
+  company: "t-access"
+  title: "CEO"
+  bio: "Mestre em Testes de Acessibilidade, CIN-UFPE, Especialista em Engenharia de Software, FBV/Qualiti, 2007, Especialista em Gestão e Qualidade de Software, Universitat Politécnica de Catalunya, 2008, Bacharel em Ciência da Computação, UNICAP, 2003. Onze anos de experiência em Engenharia de Software, Sócia-Fundadora da T-Access, atualmente ela desempenha o papel de Analista de Requisitos e Testes de Acessibilidade. Já trabalhou como Engenheira de Testes, na NTE- Espanha. No CESAR, atuou como líder do time de testes no projeto Dell, ministrou treinamentos sobre processo de testes. Implantou o processo de testes no projeto Motorola, onde também atuou como líder do time de testes e executou projetos na Motorola – Itália, em 2005 e 2006."
+  thumbnailUrl: virginia_chalegre.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/vivichalegre"}
+    - {name: "linkedin", link: "https://br.linkedin.com/vivichalegre"}
+    - {name: "facebook", link: "https://www.facebook.com/vivichalegre"}
