@@ -283,6 +283,10 @@
   bio: "Atua na Joy Street como Engenheiro de Software, professor da Especialização em Tecnologias para Desenvolvimento de Aplicações Móveis do C.E.S.A.R, Mestre em Engenharia de Software. Possui o Titanium Certified App Developer (TCAD), integrante do grupo Titans da Appcelerator, possui 19 anos de experiência na área de TI, dedicados ao desenvolvimento de aplicações web, móveis e desktop."
   thumbnailUrl: eric_cavalcanti.jpg
   rockstar: false
+  social:
+    - {name: "twitter", link: "http://twitter.com/ericoc"}
+    - {name: "linkedin", link: "http://br.linkedin.com/in/eric-cavalcanti-7751754"}
+    - {name: "facebook", link: "http://www.facebook.com/eric.cavalcanti.566"}
 -
   id: 25
   name: "Virgínia"
