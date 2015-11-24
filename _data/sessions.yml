@@ -205,3 +205,11 @@
   speakers: [9]
   language: pt-BR
   complexity: "Intermediate"
+-
+  id: 214
+  title: "Aplicações móveis multi-plataforma com Titanium Mobile"
+  description: "Imagine desenvolver aplicações com UI e comportamentos nativos para as plataformas iOS, Android e Windows Phone, e ainda assim utilizando uma única linguagem de programação! Nada de Java, Objective-C, Swift ou C#! Estamos falando de uma das linguagens mais conhecida, utilizada e fácil de aprender: o JavaScript! Agora imagine que 80% ou mais do seu código serão compartilhados em todas as plataformas, e o quanto isso vai aumentar sua produtividade e time to market! O Titanium Mobile da Appcelerator pode fazer tudo isso por você!"
+  subtype: presentation
+  speakers: [24]
+  language: pt-BR
+  complexity: "Beginner"
