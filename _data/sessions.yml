@@ -98,7 +98,7 @@
   title: "Crie Awe-Apps com AngularJs"
   description: "Angular é um framework javascript baseado no padrão de desenvolvomento de software MVC. Algumas de suas poderosas características são: Extender o vocabulario html, criando componentes totalmente customizados de acordo com dados relevantes e que se comunicam entre si."
   subtype: Codelab
-  speakers: [10,1]
+  speakers: [10]
   language: pt-BR
   complexity: "Beginner"
 -
