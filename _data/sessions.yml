@@ -221,3 +221,11 @@
   speakers: [25]
   language: pt-BR
   complexity: "Expert"
+-
+  id: 216
+  title: "Hackeando a Internet das Coisas com Javascript"
+  description: "Nesta palestra apresento o cenário atual do desenvolvimento de soluções para internet das coisas utilizando Javascript. Além disso, mostro o passo a passo de como você poderá começar a desenvolver suas soluções e quais as melhores ferramentas disponíveis no mercado para este fim. Levo para a apresentação, um protótipo funcional onde você poderá ver na prática a concepção de um projeto de hardware para internet das coisas utilizando Javascript."
+  subtype: presentation
+  speakers: [26]
+  language: pt-BR
+  complexity: "Intermediate"
