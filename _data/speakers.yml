@@ -285,3 +285,16 @@
     - {name: "twitter", link: "http://twitter.com/vivichalegre"}
     - {name: "linkedin", link: "http://br.linkedin.com/in/virgínia-chalegre-119a69b"}
     - {name: "facebook", link: "https://www.facebook.com/virginia.chalegre"}
+-
+  id: 26
+  name: "João"
+  surname: "Gabriel"
+  company: "Huddle3"
+  title: "Diretor de Tecnologia"
+  bio: "Engenheiro de Computação e Mestre em Computação Aplicada com ênfase em Inteligência Computacional pela Universidade Federal do Pará, com vasta experiência em soluções de tecnologia da informação. Focado na resolução de problemas que envolvem software e sistemas de hardware arquitetura, bancos de dados, mineração de dados em BigData, soluções de computação em nuvem, Stream Computing , business intelligence e gestão da informação. Com forte perfil empreendedor e liderança, já atuou em diversos projetos de Pesquisa e Desenvolvimento, com experiência em diversas plataformas para desenvolvimento de sistemas complexos especializados. Das linguagens com que trabalhou, destacam-se: Java, Python, NodeJS, C++, PHP, C#, além de diversos bancos de dados relacionais e não relacionais."
+  thumbnailUrl: joao_gabriel.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/jgabriel_lima"}
+    - {name: "github", link: "https://github.com/jgabriellima"}
+    - {name: "linkedin", link: "http://br.linkedin.com/in/joaogabriellima"}
