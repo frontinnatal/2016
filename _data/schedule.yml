@@ -41,12 +41,12 @@
     - {
         startTime: "14:00",
         endTime: "14:45",
-        sessionIds: [208,006,103]
+        sessionIds: [208,214,103]
     }
     - {
         startTime: "14:45",
         endTime: "15:30",
-        sessionIds: [209,214,211]
+        sessionIds: [209,006,211]
     }
     - {
         startTime: "15:30",
