@@ -298,3 +298,14 @@
     - {name: "twitter", link: "https://twitter.com/jgabriel_lima"}
     - {name: "github", link: "https://github.com/jgabriellima"}
     - {name: "linkedin", link: "http://br.linkedin.com/in/joaogabriellima"}
+-
+  id: 27
+  name: "Francisco"
+  surname: "Marinho"
+  company: "CESAR"
+  title: "Engenheiro de Sistemas"
+  bio: "Graduado em Análise e Desenvolvimento de software pela Unibratec. Ingressou no CESAR como residente em 2011, quando adquiriu formação em Desenvolvimento de Software Linux para Sistemas Embarcados. Possui experiência nas  linguagem de programação C, Java, JavaScript. É Engenheiro de Sistemas no CESAR desde 2012."
+  thumbnailUrl: franciscomarinho.jpg
+  rockstar: false
+  social:
+    - {name: "github", link: "https://github.com/FranciscoMarinho"}
