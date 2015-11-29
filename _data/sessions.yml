@@ -1,11 +1,11 @@
 -
   id: 001
-  title: "Check-in / Breakfast"
+  title: "Abertura / Check-in"
   place: "Lounge"
   service: true
 -
   id: 002
-  title: "Abertura"
+  title: "Social Break com sorteio de brindes"
   place: "Auditorium"
   service: true
 -
