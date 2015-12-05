@@ -58,9 +58,9 @@
   id: 6
   name: "Marina"
   surname: "Limeira"
-  company: "Roga Labs"
+  company: "UFAL"
   title: "Desenvoledora Back-End"
-  bio: "Apaixonada por software livre, começou a contribuir para a comunidade Mozilla Brasil no final de 2014. Desenvolvedora Ruby on Rails, atualmente trabalha na Roga Labs. Estudante de Ciência da Computação na UFAL."
+  bio: "Apaixonada por software livre, começou a contribuir para a comunidade Mozilla Brasil no final de 2014. Desenvolvedora Ruby on Rails."
   thumbnailUrl: marinalimeira_.jpg
   ribbon:
   - {abbr: "Moz", title: "Mozillian", url: "https://mozillians.org/en-US/u/marinalimeira"}
