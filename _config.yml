@@ -39,13 +39,11 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: "http://bit.ly/c4pjsdayrec"
 c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2015"
 
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "JS Experts"}
  - {permalink: "/schedule/", text: "Lineup"}
- - {link: "http://bit.ly/c4pjsdayrec", text: "Call for Papers"}
 
 bottomNavigationLinks:
  - {link: "http://even.tc/jsday-recife-2015", text: "Inscreva-se <3"}
@@ -60,7 +58,6 @@ typeoutTextValues: '"", "JavaScript", "AngularJS", "NodeBots", "Open Web App"'
 typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "http://even.tc/jsday-recife-2015", text: "Inscreva-se <3"}
- - {link: "http://bit.ly/c4pjsdayrec", text: "Call for Papers ;)"}
 
 # About Block
 aboutTitle: "Sobre o JSday Recife"
@@ -82,7 +79,7 @@ latestNewsTitle: "Novidades"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 5
 rockstarSpeakersTitle: "JavaScript Experts"
 rockstarSpeakersButtonText: "Conheça todos Palestrantes"
 
