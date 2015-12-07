@@ -58,9 +58,9 @@
   id: 6
   name: "Marina"
   surname: "Limeira"
-  company: "Roga Labs"
+  company: "UFAL"
   title: "Desenvoledora Back-End"
-  bio: "Apaixonada por software livre, começou a contribuir para a comunidade Mozilla Brasil no final de 2014. Desenvolvedora Ruby on Rails, atualmente trabalha na Roga Labs. Estudante de Ciência da Computação na UFAL."
+  bio: "Apaixonada por software livre, começou a contribuir para a comunidade Mozilla Brasil no final de 2014. Desenvolvedora Ruby on Rails."
   thumbnailUrl: marinalimeira_.jpg
   ribbon:
   - {abbr: "Moz", title: "Mozillian", url: "https://mozillians.org/en-US/u/marinalimeira"}
@@ -74,7 +74,7 @@
   surname: "Foresti"
   company: "Robô Livre"
   title: "CESAR e Fundador da Robô Livre"
-  bio: "Henrique Foresti é mineiro, natural de Varginha, atua nas áreas de Robótica e Eletrônica Embarcada. É engenheiro de sistemas do Bio Robotics Fusion, área que desenvolve a Robótica e Biologia Sintética no CESAR, idealizador da plataforma Robô Livre e professor do curso tecnólogo em Engenharia Mecatrônica do SENAI. Graduou-se em Ciências da Computação pela UEMG e é Mestre em Engenharia Mecânica pela UFPE. Atua também como curador dos principais eventos de Robótica e Tecnologia da América Latina e desenvolve projetos de pesquisa e inovação em parceria com diversas instituições, em especial nas áreas de robôs domésticos, robótica pedagógica, robôs terrestres, veículos aéreos não tripulados e plataformas de telemetria, processamento e comunicação."
+  bio: "Henrique Foresti é mineiro, natural de Varginha. É especialista em Robótica no CESAR, idealizador da plataforma Robô Livre e Doutorando no Cin UFPE. Graduou-se em Ciências da Computação pela UEMG e é Mestre em Engenharia Mecânica pela UFPE. Atua também como curador dos principais eventos de Robótica e Tecnologia da América Latina e desenvolve projetos de pesquisa e inovação creditados por diversas instituições de fomento, em especial nas áreas de robôs domésticos,  robótica pedagógica, robôs terrestres, veículos aéreos não tripulados e plataformas de telemetria, processamento e comunicação. Fomenta competições de Robótica em diversos estados do Brasil e coordena o time CESAR-VoxarLabs, atual bi-campeão da categoria @home do LARC/CBR."
   thumbnailUrl: henriqueForesti.jpg
 -
   id: 8
@@ -267,7 +267,7 @@
   title: "Engenheiro de Software"
   bio: "Atua na Joy Street como Engenheiro de Software, professor da Especialização em Tecnologias para Desenvolvimento de Aplicações Móveis do C.E.S.A.R, Mestre em Engenharia de Software. Possui o Titanium Certified App Developer (TCAD), integrante do grupo Titans da Appcelerator, possui 19 anos de experiência na área de TI, dedicados ao desenvolvimento de aplicações web, móveis e desktop."
   thumbnailUrl: eric_cavalcanti.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "http://twitter.com/ericoc"}
     - {name: "linkedin", link: "http://br.linkedin.com/in/eric-cavalcanti-7751754"}
@@ -298,3 +298,14 @@
     - {name: "twitter", link: "https://twitter.com/jgabriel_lima"}
     - {name: "github", link: "https://github.com/jgabriellima"}
     - {name: "linkedin", link: "http://br.linkedin.com/in/joaogabriellima"}
+-
+  id: 27
+  name: "Francisco"
+  surname: "Marinho"
+  company: "CESAR"
+  title: "Engenheiro de Sistemas"
+  bio: "Graduado em Análise e Desenvolvimento de software pela Unibratec. Ingressou no CESAR como residente em 2011, quando adquiriu formação em Desenvolvimento de Software Linux para Sistemas Embarcados. Possui experiência nas  linguagem de programação C, Java, JavaScript. É Engenheiro de Sistemas no CESAR desde 2012."
+  thumbnailUrl: franciscomarinho.jpg
+  rockstar: false
+  social:
+    - {name: "github", link: "https://github.com/FranciscoMarinho"}

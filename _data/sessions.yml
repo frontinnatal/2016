@@ -1,11 +1,11 @@
 -
   id: 001
-  title: "Check-in / Breakfast"
+  title: "Abertura / Check-in"
   place: "Lounge"
   service: true
 -
   id: 002
-  title: "Abertura"
+  title: "Break com sorteio de brindes"
   place: "Auditorium"
   service: true
 -
@@ -72,7 +72,7 @@
 -
   id: 105
   title: "Robotics for everyone"
-  description: "Em breve"
+  description: "Nessa palestra vamos conversar sobre Robótica. Henrique Foresti vai mostrar como sonhou em realizar Transformação Social com a Robótica a partir de uma plataforma Aberta que está presente em todo o País. Ainda haverá uma conversa em torno das principais Cias de Robótica do mundo e sobre o I-Zak, um simpático robô feito de Robótica Emotiva para conviver no ambiente doméstico, que disputa competições de nível mundial."
   subtype: presentation
   speakers: [7]
   language: pt-BR
@@ -98,7 +98,7 @@
   title: "Crie Awe-Apps com AngularJs"
   description: "Angular é um framework javascript baseado no padrão de desenvolvomento de software MVC. Algumas de suas poderosas características são: Extender o vocabulario html, criando componentes totalmente customizados de acordo com dados relevantes e que se comunicam entre si."
   subtype: Codelab
-  speakers: [10]
+  speakers: [10, 27]
   language: pt-BR
   complexity: "Beginner"
 -
@@ -183,8 +183,8 @@
   complexity: "Intermediate"
 -
   id: 211
-  title: "Physical Web: a internet vem pra rua"
-  description: "O Physical Web é uma maneira totalmente diferente de usar a web: sob demanda, permitindo iterações com seu smartphone com outro \"smart device\" diretamente, sem precisar baixar nenhum app. A talk mostra o potencial de o Physical Web tem de modificar a maneira com que interagimos com as coisas e também um caminho de como implementar com o seu beacon."
+  title: "Conectando com o mundo real: Web Bluetooth e Physical Web"
+  description: "Enquanto o Web Bluetooth abre uma comunicação de baixo-nível através de múltiplos dispositivos BLE como brinquedos, vending machines, museus, quiosques e outras coisas, o Physical Web torna a descoberta e a conexão a esses objetos algo simples para os usuários. Juntos eles irão expandir o alcance da web para muito mais dispositivos em torno dos usuários."
   subtype: presentation
   speakers: [22]
   language: pt-BR
