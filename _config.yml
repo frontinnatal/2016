@@ -152,7 +152,6 @@ ticketsOffers:
   buyButtonText: "{{Comprar}}"
   validFrom: "2015-12-06T00:00"
   validThrough: "2015-12-12T06:00"
-  disabled: true
 
 # Footer
 socialLinks:
