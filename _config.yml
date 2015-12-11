@@ -44,6 +44,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "JS Experts"}
  - {permalink: "/schedule/", text: "Lineup"}
+ - {permalink: "/live/", text: "Live"}
 
 bottomNavigationLinks:
  - {link: "http://even.tc/jsday-recife-2015", text: "Inscreva-se <3"}
