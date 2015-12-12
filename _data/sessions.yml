@@ -40,7 +40,7 @@
 -
   id: 101
   title: "NodeBots roll out"
-  description: "Em breve."
+  description: "O JavaScript quer dominar o mundo. Ele está quebrando as barreiras da web e vindo para o mundo real. Agora vamos ver como utilizar JavaScript em Hardware e IoT para controlar tudo ao seu redor."
   subtype: presentation
   speakers: [4]
   language: pt-BR
@@ -55,8 +55,8 @@
   complexity: "Intermediate"
 -
   id: 103
-  title: "Firefox OS: Liberdade além da web"
-  description: "Lançado em 2013, o novo sistema operacional para dispositivos móveis desenvolvido pela Mozilla é baseado no Kernel Linux e no poderoso motor de renderização Gecko do Firefox. Voltado inicialmente para mercados emergentes, o Firefox OS tem como objetivo trazer o próximo milhão de pessoas para a web. Seus aplicativos são todos feitos com HTML, CSS e JavaScript, tendo acesso ao hardware através das WebAPIs."
+  title: "Customizando a sua web com Add-ons"
+  description: "A Mozilla é uma comunidade global de pessoas que acreditam em uma web aberta e acessível, que possui desde projetos pra ensinar a web como projetos para desenvolvedores ajudarem a criar novas tecnologias. Os Add-ons são ferramentas cruciais em nesses projetos, como o Firefox e o Thunderbird. Eles te permitem adicionar ou alterar features desses projetos, onde você tem a liberdade de modificar totalmente sua experiência de uso."
   subtype: presentation
   speakers: [6]
   language: pt-BR
