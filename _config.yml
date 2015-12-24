@@ -45,6 +45,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "JS Experts"}
  - {permalink: "/schedule/", text: "Lineup"}
  - {permalink: "/live/", text: "Live"}
+ - {link: "http://certificado.eventick.com.br/generate/bEj9g8cLRqi5d5pUFbai3A", text: "Certificados"}
 
 bottomNavigationLinks:
  - {link: "http://even.tc/jsday-recife-2015", text: "Inscreva-se <3"}
