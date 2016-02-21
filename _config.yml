@@ -47,18 +47,21 @@ navigationLinks:
  - {permalink: "/live/", text: "Live"}
 
 bottomNavigationLinks:
- - {link: "http://certificado.eventick.com.br/generate/bEj9g8cLRqi5d5pUFbai3A", text: "Inscreva-se"}
+ - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
+ - {link: "https://docs.google.com/forms/d/1TVsUN1L2xcMBK59MFnwW7X90Lw-gcj25_EVwnfTTu0U/viewform", text: "Call for Papers"}
 rightNavigationButtons:
- - {link: "http://certificado.eventick.com.br/generate/bEj9g8cLRqi5d5pUFbai3A", text: "Inscreva-se"}
+ - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
+ - {link: "https://docs.google.com/forms/d/1TVsUN1L2xcMBK59MFnwW7X90Lw-gcj25_EVwnfTTu0U/viewform", text: "Call for Papers"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "JSday Campina Grande: <typeout>"
+heroTitle: "#JSdayCG: <typeout>"
 eventDate: "23 de Abril, 2016"
-typeoutTextValues: '"", "JavaScript", "AngularJS", "NodeBots", "Open Web App"'
+typeoutTextValues: '"", "JavaScript", "ECMAScript 6", "AngularJS", "ReactJS", "NodeJS"'
 typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "http://certificado.eventick.com.br/generate/bEj9g8cLRqi5d5pUFbai3A", text: "Inscreva-se"}
+ - {link: "https://docs.google.com/forms/d/1TVsUN1L2xcMBK59MFnwW7X90Lw-gcj25_EVwnfTTu0U/viewform", text: "Call for Papers"}
 
 # About Block
 aboutTitle: "Sobre o JSday"
@@ -70,10 +73,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "250", specialCharacter: "+", info: "participantes", detail: ""}
+ - {count: "500", specialCharacter: "+", info: "participantes", detail: "num dos melhores teatros do nordeste"}
  - {count: "36", specialCharacter: "+", info: "horas", detail: "de puro código"}
  - {count: "24", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
- - {count: "3", specialCharacter: "", info: "trilhas", detail: "foco total em JavaScript"}
 
 # Latest News Block
 latestNewsTitle: "Novidades"
@@ -131,9 +133,9 @@ ticketsTitle: "Inscreva-se.now()"
 ticketsOffers:
  -
   name: "1º lote: Early Adopters"
-  price: "50"
+  price: "45"
   priceCurrency: "R$"
-  buyButtonLink: "http://even.tc/jsday-recife-2015"
+  buyButtonLink: "http://even.tc/jsday-campina-grande-2016"
   buyButtonText: "{{Comprar}}"
   validFrom: "2015-10-05T10:00"
   validThrough: "2015-12-12T23:59"
@@ -141,7 +143,7 @@ ticketsOffers:
   name: "2º Lote: Release Candidate"
   price: "80"
   priceCurrency: "R$"
-  buyButtonLink: "http://even.tc/jsday-recife-2015"
+  buyButtonLink: ""
   buyButtonText: "{{Não disponível}}"
   validFrom: "2015-10-28T00:00"
   validThrough: "2015-12-11T23:59"
@@ -149,7 +151,7 @@ ticketsOffers:
   name: "3º Lote: Release"
   price: "100"
   priceCurrency: "R$"
-  buyButtonLink: "http://even.tc/jsday-recife-2015"
+  buyButtonLink: ""
   buyButtonText: "{{Não disponível}}"
   validFrom: "2015-12-06T00:00"
   validThrough: "2015-12-12T06:00"
@@ -175,7 +177,7 @@ footerBlocks:
  -
   title: "Edições Anteriores"
   links:
-   - {link: "http://jsday.com.br", text: "JSday Recife"}
+   - {link: "http://rec.jsday.com.br", text: "JSday Recife"}
    - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
    - {permalink: "/wtm-javascript-codelab/", text: "JSday Maceió Codelab WTM JavaScript"}
    - {link: "http://fsa.jsday.com.br", text: "JSday Feira de Santana"}
@@ -187,7 +189,6 @@ footerBlocks:
   title: "FAQ"
   links:
    - {link: "http://pt-br.confcodeofconduct.com/", text: "Código de Conduta"}
-   - {link: "http://womentechmakers.com", text: "WTM (Women Techmakers)"}
 
 # Blog
 blogTitle: "Latest news"
