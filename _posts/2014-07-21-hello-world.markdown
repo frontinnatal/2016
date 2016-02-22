@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "WTM JavaScript Codelab"
+title:  "Workshops: Angular e React.js"
 date:   2015-10-05 10:00:00
 isStaticPost: false
 ---
 
-O WTM JavaScript Codelab tem como objetivo ensinar o básico dessa poderosa linguagem para meninas que se interessam em se aventurar no Desenvolvimento Web. As mesmas meninas que participarem desse Codelab poderão assistir as palestras da tarde.﻿
+Não consegue decidir qual Framework JavaScript você escolherá para seu próximo projeto web? Participe dos Codelabs do JSDay Campina Grande e tire suas próprias conclusões qual melhor caminho a seguir, ou seria codificar.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Call for Papers"
+title:  "Call for Papers: Participe como palestrante"
 date:   2015-10-05 09:00:00
 isStaticPost: false
 ---
