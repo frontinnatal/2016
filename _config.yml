@@ -36,15 +36,15 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/c4pjsdayrec"
+c4pUrl: "https://docs.google.com/forms/d/1TVsUN1L2xcMBK59MFnwW7X90Lw-gcj25_EVwnfTTu0U/viewform"
 c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2015"
 
 # Navigation
-navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/speakers/", text: "JS Experts"}
- - {permalink: "/schedule/", text: "Lineup"}
- - {permalink: "/live/", text: "Live"}
+# navigationLinks:
+#  - {permalink: "/", text: "Home"}
+#  - {permalink: "/speakers/", text: "JS Experts"}
+#  - {permalink: "/schedule/", text: "Lineup"}
+#  - {permalink: "/live/", text: "Live"}
 
 bottomNavigationLinks:
  - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
@@ -60,13 +60,13 @@ eventDate: "23 de Abril, 2016"
 typeoutTextValues: '"", "JavaScript", "ECMAScript 6", "AngularJS", "ReactJS", "NodeJS"'
 typeoutFallback: "JavaScript"
 heroButtons:
- - {link: "http://certificado.eventick.com.br/generate/bEj9g8cLRqi5d5pUFbai3A", text: "Inscreva-se"}
+ - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
  - {link: "https://docs.google.com/forms/d/1TVsUN1L2xcMBK59MFnwW7X90Lw-gcj25_EVwnfTTu0U/viewform", text: "Call for Papers"}
 
 # About Block
 aboutTitle: "Sobre o JSday"
 aboutBlock:
- - {title: "Javascript", image: "javascript.jpg", text: "Como uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas." }
+ - {title: "JavaScript", image: "javascript.jpg", text: "Como uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas." }
  - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que conhecem as nuances do Javascript e estejam por dentro das novidades do ES6" }
  - {title: "Networking", image: "networking.jpg", text: "Uma das melhores formas para desenvolvimento profissional com certeza é conhecer a comunidade que você faz parte" }
 
@@ -74,8 +74,8 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "500", specialCharacter: "+", info: "participantes", detail: "num dos melhores teatros do nordeste"}
- - {count: "36", specialCharacter: "+", info: "horas", detail: "de puro código"}
- - {count: "24", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
+ - {count: "10", specialCharacter: "+", info: "horas", detail: "de puro código"}
+ - {count: "8", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
 
 # Latest News Block
 latestNewsTitle: "Novidades"
@@ -114,7 +114,7 @@ venueFeatures: ["Capacidade para mais de 700 pessoas", "Um dos teatros mais mode
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Tweets.get()"
-twitterHashTag: "jsdaycg"
+twitterHashTag: "jsdaybr"
 twitterFeed: "#"
 
 # Partners Block
@@ -159,27 +159,18 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=jsdaybr", icon: "twitter"}
- - {link: "https://www.facebook.com/jsdaybr/", icon: "facebook"}
+ - {link: "https://fb.com/jsdaybr/", icon: "facebook"}
 
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://cesar.org.br", text: "C.E.S.A.R"}
-   - {link: "http://cesar.edu.br", text: "CESAR.EDU"}
-   - {link: "http://www.codeschool.com/jsdayrecife", text: "Code School"}
-   - {link: "http://www.facebook.com/", text: "Facebook"}
-   - {link: "http://www.hugeinc.com/", text: "HUGE"}
-   - {link: "http://www.appcelerator.com/", text: "Appcelerator"}
    - {link: "http://fb.com/caravanaweb", text: "Caravana Web"}
-   - {link: "https://yld.io/", text: "YLDio"}
-   - {link: "http://robolivre.org", text: "Robolivre.org"}
  -
   title: "Edições Anteriores"
   links:
    - {link: "http://rec.jsday.com.br", text: "JSday Recife"}
    - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
-   - {permalink: "/wtm-javascript-codelab/", text: "JSday Maceió Codelab WTM JavaScript"}
    - {link: "http://fsa.jsday.com.br", text: "JSday Feira de Santana"}
  -
   title: "Contato"
@@ -206,78 +197,6 @@ aboutUs: "Google's services have become synonymous with simple things online. Nu
 cfpTitle: "Espalhe o amor pelo JavaScript"
 cfpDescription: "Uma oportunidade excelente para você mostrar do que o JavaScript é capaz, você já está por dentro das novidades do ES6, sabe como ninguém utilizar os componentes do ReactJS, programa usando JavaScript Funcional ou ainda quer explicar do que se trata esse tal de BabelJS. Siga os passos abaixo e envie sua proposta."
 
-# Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
-logisticsMapAutoDirections: false
-
-# Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
-directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards:
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-
-#WTM JavaScript Codelab
-wtmCodelabTitle: "WTM JavaScript Codelab"
-trainingImage: "womentechmakers.jpg"
-trainingTitle: "Instrutora"
-wtmJavaScriptCodelabRows:
- - {title: "Codelab Gratuito para Mulheres", image: "1.png", details: "O WTM JavaScript Codelab tem como objetivo ensinar o básico dessa poderosa linguagem para meninas que se interessam em se aventurar no Desenvolvimento Web. As mesmas meninas que participarem desse Codelab poderão assistir as palestras da tarde do JSday e ver o quão versátil é o que elas aprenderam pela manhã.﻿"}
- - {title: "Por que JavaScript?", image: "2.png", details: "Uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas.<br><br>Hoje o JavaScript está entrando num processo de evolução, inovação e padronização, com novos desenvolvimentos, como Node.js, permitindo usar o JavaScript no servidor, além de APIs HTML5 para obter dados sobre a localização de dispositivos e características geográficas e muito mais."}
-
 # Hackathon
 hackathonTitle: "Hackathon"
 enableHackathon: false
-
-
-# Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
