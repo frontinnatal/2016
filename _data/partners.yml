@@ -1,4 +1,5 @@
 -
   group: ""
   elements:
+    - {name: "HUGE", description: "Huge is a full service digital agency headquartered in Brooklyn with offices worldwide. We transform brands and build businesses.", link: "http://www.hugeinc.com/", imageUrl: "huge.png", width: "209px"}
     - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "160px"}

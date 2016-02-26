@@ -40,9 +40,9 @@ c4pUrl: "https://docs.google.com/forms/d/1TVsUN1L2xcMBK59MFnwW7X90Lw-gcj25_EVwnf
 c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2015"
 
 # Navigation
-# navigationLinks:
-#  - {permalink: "/", text: "Home"}
-#  - {permalink: "/speakers/", text: "JS Experts"}
+navigationLinks:
+  - {permalink: "/", text: "Home"}
+  - {permalink: "/speakers/", text: "JS Experts"}
 #  - {permalink: "/schedule/", text: "Lineup"}
 #  - {permalink: "/live/", text: "Live"}
 
@@ -165,7 +165,8 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://fb.com/caravanaweb", text: "Caravana Web"}
+    - {link: "http://www.hugeinc.com/", text: "HUGE"}
+    - {link: "http://fb.com/caravanaweb", text: "Caravana Web"}
  -
   title: "Edições Anteriores"
   links:
