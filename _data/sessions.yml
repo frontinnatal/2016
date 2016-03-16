@@ -55,9 +55,9 @@
   complexity: "Intermediate"
 -
   id: 103
-  title: "Breve"
-  description: ""
+  title: "O realístico mundo do WebVR com A-Frame"
+  description: "O Oculus Rift é um grande exemplo do caminho que a realidade virtual esta seguindo e esse mundo também está acessível à Web. Com o A-Frame podemos criar experiências incríveis, de uma maneira mais simples do que você imagina."
   subtype: presentation
   speakers: [4]
   language: pt-BR
-  complexity: "Beginner"
+  complexity: "Intermediate"

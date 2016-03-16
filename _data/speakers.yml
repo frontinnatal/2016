@@ -15,9 +15,9 @@
   id: 2
   name: "Juarez"
   surname: "Filho"
-  company: "madewithlove"
-  title: "Front End Engineer"
-  bio: "Front end Engineer com mais de 7 anos de experiência, começou sua carreira como desenvolvedor PHP, tentou aprender Java e depois se entregou ao Ruby e Rails, mas com sua primeira classe CSS dedicou-se completamente a carreira de Front End e UX. Trabalhou com várias Startups, incluindo Compra3, Eadbox, Amanaiê, Enjoei e Gabstr Inc, nos dias de hoje está construindo projetos com muito amor na madewithlove."
+  company: "Google Developer Expert"
+  title: "Front-End Engineer"
+  bio: "Front end Engineer com mais de 7 anos de experiência, começou sua carreira como desenvolvedor PHP, tentou aprender Java e depois se entregou ao Ruby e Rails, mas com sua primeira classe CSS dedicou-se completamente a carreira de Front End e UX. Trabalhou com várias Empresas/Startups, incluindo Compra3, Eadbox, Amanaiê, Enjoei, Gabstr Inc e madewithlove."
   thumbnailUrl: juarez-filho.jpg
   rockstar: true
   ribbon:
@@ -39,13 +39,14 @@
     - {name: "twitter", link: "http://twitter.com/brenopolanski"}
 -
   id: 4
-  name: "Fabrício"
-  surname: "Epaminondas"
-  company: "UFCG"
-  title: "Software Engineer"
-  bio: "Fabricio Silva Epaminondas has a degree in computer science, with a solid background in software development, testing, and software engineering. He has been an agile and quality enthusiast for more than 10 years, including working experience in the field, having played several roles ranging from project management to software architecture and team leadership."
-  thumbnailUrl: fabricioepa.jpg
-  rockstar: false
+  name: "Bruno"
+  surname: "Lima"
+  company: "CESAR"
+  title: "Front-end Developer"
+  bio: "Desenvolvedor web, focado no front-end. É voluntário da Mozilla, apoiador da open web e neutralidade da rede. Front-end Developer no CESAR, em Recife. Membro do NodeBots Recife."
+  thumbnailUrl: bruno-lima.jpg
+  rockstar: true
   social:
-    - {name: "twitter", link: "http://twitter.com/fabricioepa"}
-
+    - {name: "linkedin", link: "https://br.linkedin.com/in/brunolimawd"}
+    - {name: "twitter", link: "https://twitter.com/brunolimawd"}
+    - {name: "github", link: "http://github.com/brunolimawd"}
