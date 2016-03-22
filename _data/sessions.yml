@@ -61,3 +61,11 @@
   speakers: [4]
   language: pt-BR
   complexity: "Intermediate"
+-
+  id: 104
+  title: "MEAN Stack"
+  description: "Introdução à construção de aplicações para a web com a tecnologia Node.js, middleware Express.js, framework Angular.js e o banco de dados MongoDB."
+  subtype: presentation
+  speakers: [5]
+  language: pt-BR
+  complexity: "Intermediate"

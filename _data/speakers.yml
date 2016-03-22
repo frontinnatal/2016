@@ -50,3 +50,14 @@
     - {name: "linkedin", link: "https://br.linkedin.com/in/brunolimawd"}
     - {name: "twitter", link: "https://twitter.com/brunolimawd"}
     - {name: "github", link: "http://github.com/brunolimawd"}
+-
+  id: 5
+  name: "Bruno"
+  surname: "Catão"
+  company: "Meteorite.bi"
+  title: "Developer"
+  bio: "Desenvolvedor com 14 anos de experiência, com foco em Java, JavaScript e Ruby (desenvolvo jogos por diversão, normalmente na plataforma Unity3d). Já trabalhei como programador, líder de célula, arquiteto de software, consultor e desenvolvedor full-stack. Também leciono desde 2009 nos cursos de Sistemas de Informação, Jogos Digitais e, mais recentemente, Ciência da Computação."
+  thumbnailUrl: bruno-catao.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "http://github.com/brunogamacatao"}
