@@ -61,3 +61,15 @@
   rockstar: true
   social:
     - {name: "github", link: "http://github.com/brunogamacatao"}
+-
+  id: 6
+  name: "João"
+  surname: "Gabriel"
+  company: "Epitrack"
+  title: "Software Engineer/Teacher"
+  bio: "Paraense, viciado em açaí, mestre em Computação Aplicada, Professor e Pesquisador em Inteligência Computacional e Mineração de Dados. Apaixonado por Javascript, já atuei como instrutor em diversos cursos envolvendo tecnologias web, trabalho diariamente com a tecnologia e espero que cresça cada dia mais. Músico nas horas vagas, não dispenso uma boa oportunidade de tirar um som com os amigos! "
+  thumbnailUrl: joao-gabriel.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/joaogabriellima"}
+    - {name: "github", link: "http://github.com/jgabriellima"}

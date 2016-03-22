@@ -69,3 +69,11 @@
   speakers: [5]
   language: pt-BR
   complexity: "Intermediate"
+-
+  id: 105
+  title: "ReactJS - Construindo Apps Nativas usando JavaScript"
+  description: "Nesta palestra apresento o framework ReactNative, destacando suas principais características. Mostrarei um passo a passo para começar a desenvolver suas aplicações com ReactNative e alguns exemplos. Por fim, farei uma breve análise de desempenho sobre um app feito com o ReactNative."
+  subtype: presentation
+  speakers: [6]
+  language: pt-BR
+  complexity: "Intermediate"
