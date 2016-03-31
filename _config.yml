@@ -57,7 +57,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "#JSdayCG: <typeout>"
 eventDate: "23 de Abril, 2016"
-typeoutTextValues: '"", "JavaScript", "ECMAScript 6", "AngularJS", "ReactJS", "NodeJS"'
+typeoutTextValues: '"", "JavaScript", "ES2015 (ES6)", "Firebase", "ReactJS", "NodeJS", "WebVR", "Progressive Web Apps"'
 typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
