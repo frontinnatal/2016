@@ -73,3 +73,58 @@
   social:
     - {name: "linkedin", link: "https://br.linkedin.com/in/joaogabriellima"}
     - {name: "github", link: "http://github.com/jgabriellima"}
+-
+  id: 7
+  name: "Fernando"
+  surname: "Junior"
+  company: "UFCG"
+  title: "Master's Degree Student"
+  bio: "Currently a master's degree student in Computer Science at Universidade Federal de Campina Grande. The central area of his research is artificial intelligence and focuses on analyzing patterns from the players' behavior using machine learning. As a full-stack software engineer He also acts in several subjects using primarily open source platforms. Additionally, He is experienced with business intelligence."
+  thumbnailUrl: fernando-junior.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/fernandofnjr"}
+    - {name: "github", link: "http://github.com/fernandojunior"}
+-
+  id: 8
+  name: "Diógenes"
+  surname: "Fernandes"
+  company: "Buffered"
+  title: "Full-Stack Developer"
+  bio: "Hacker, sports lover and mover"
+  thumbnailUrl: diogenes-fernandes.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "http://twitter.com/diofeher"}
+    - {name: "github", link: "http://github.com/diofeher"}
+-
+  id: 9
+  name: "Allisson"
+  surname: "Azevedo"
+  company: "SodaVirtual"
+  title: "Web Developer"
+  bio: "Web Developer desde 2009, trabalhando principalmente com Python e Django. Apaixonado por linguagens de programação, banco de dados e arquiteturas escaláveis.
+Atualmente trabalha como Web Developer na SodaVirtual."
+  thumbnailUrl: allisson-azevedo.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "http://twitter.com/allisson"}
+    - {name: "github", link: "http://github.com/allisson"}
+    - {name: "linkedin", link: "http://twitter.com/allisson"}
+-
+  id: 10
+  name: "Ruan Pierre"
+  surname: "de Oliveira"
+  company: "UFCG"
+  title: "Analista Sênior"
+  bio: "Ruan Pierre é Mestre em Ciências da Computação pela UFCG e Especialista Desenvolvimento para Dispositivos Móveis e Embarcados. Atualmente é Analista Sênior de Projetos no Embedded/UFCG e trabalha com Desenvolvimento de Software há 5 anos, no qual 4 desses foram pela empresa Accenture, com experiências em Java, Angular, Spring Boot e frameworks Java Web. Nas horas vagas gosto de assistir filmes, assim como conversar com os amigos."
+  thumbnailUrl: ruan-pierre.png
+-
+  id: 11
+  name: "Daniel"
+  surname: "Abella"
+  company: "UFCG"
+  title: "Líder de Projetos"
+  bio: "Apaixonado por tecnologia, com mais de 10 anos de experiência na área de Desenvolvimento de Software e Gerenciamento de Projetos. Atualmente é Líder de Projetos na Embedded/UFCG para Projetos na Compal (Taiwan), Professor do Curso de Sistemas de Informação na Facisa. Tem interesse em programação."
+  thumbnailUrl: daniel-abella.jpg
+  rockstar: true

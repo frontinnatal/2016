@@ -77,3 +77,35 @@
   speakers: [6]
   language: pt-BR
   complexity: "Intermediate"
+-
+  id: 106
+  title: "Mais que mil palavras: Visualizando dados com D3.js"
+  description: "Uma imagem vale mais que mil palavras. Da mesma forma, ferramentas de visualização de dados ajudam a explicar de modo mais fácil idéias ou resultados complexos frequentemente associados a dados volumosos. Com o advento da web, big data e data science tais ferrtamentas se tornam ainda mais importantes. Nesta palestra será apresentado o D3.js, uma biblioteca para criar visualizações dinâmicas e interativas."
+  subtype: presentation
+  speakers: [7]
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 107
+  title: "ECMAScript 6 - Consertando as partes ruins do Javascript"
+  description: "Com o advento do ECMAScript 6, alguns pontos levantados pela comunidade e por Douglas Crockford no livro Javascript: Good Parts se tornaram obsoletos. Essa palestra pretende mostrar uma visão geral destes pontos que foram consertados (e os outros não citados pelo livro) e os ruins que continuam na linguagem baseada no ES6."
+  subtype: presentation
+  speakers: [8]
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 108
+  title: "Crawleando sites com NodeJS"
+  description: "Aprenda na prática a usar os recursos do NodeJS para crawlear sites. Um exemplo prático de crawler de sites de receitas vai ser exposto e o código vai estar disponível no github."
+  subtype: presentation
+  speakers: [9]
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 109
+  title: "Workshop: JavaScript Saindo do Zero"
+  description: "Neste workshop apresentaremos conceitos básicos de JavaScript para alunos e profissionais que estejam ou tenham interesse em iniciar nesta área, visto que que é base para frameworks bastante disseminados no mercado, como o AngularJS, Node.JS entre outros."
+  subtype: presentation
+  speakers: [10,11]
+  language: pt-BR
+  complexity: "Intermediate"
