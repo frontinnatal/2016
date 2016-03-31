@@ -48,10 +48,8 @@ navigationLinks:
 
 bottomNavigationLinks:
  - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
- - {link: "https://docs.google.com/forms/d/1TVsUN1L2xcMBK59MFnwW7X90Lw-gcj25_EVwnfTTu0U/viewform", text: "Call for Papers"}
 rightNavigationButtons:
  - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
- - {link: "https://docs.google.com/forms/d/1TVsUN1L2xcMBK59MFnwW7X90Lw-gcj25_EVwnfTTu0U/viewform", text: "Call for Papers"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -61,7 +59,6 @@ typeoutTextValues: '"", "JavaScript", "ES2015 (ES6)", "Firebase", "ReactJS", "No
 typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
- - {link: "https://docs.google.com/forms/d/1TVsUN1L2xcMBK59MFnwW7X90Lw-gcj25_EVwnfTTu0U/viewform", text: "Call for Papers"}
 
 # About Block
 aboutTitle: "Sobre o JSday"
