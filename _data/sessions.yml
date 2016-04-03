@@ -1,34 +1,35 @@
 -
   id: 001
-  title: "Abertura / Check-in"
+  title: "🏁 Credenciamento / Check-in"
   place: "Lounge"
   service: true
 -
   id: 002
-  title: "Break com sorteio de brindes"
+  title: "🎉 Abertura"
   place: "Auditorium"
   service: true
 -
   id: 003
-  title: "Almoço"
+  title: "🍴 Almoço"
   place: ""
   service: true
 -
   id: 004
-  title: "Accessibility Break by Facebook"
-  place: "Auditorium"
+  title: "☕️ Coffee Break"
+  place: ""
   service: true
 -
   id: 005
-  title: "Encerramento"
+  title: "🙌 Encerramento"
   place: "Auditorium"
   service: true
   description: "Thank you and... Always bet on JS!"
 -
   id: 006
-  title: "Em breve"
+  title: "⚡️ Desafio JavaScript"
   place: "Auditorium"
   service: true
+  description: "Prepare-se para assimilar mais conteúdo e se divertir com JavaScript."
 -
   id: 100
   title: "Desenvolvimento Client-Side em 2016"
@@ -47,7 +48,7 @@
   complexity: "Intermediate"
 -
   id: 102
-  title: "Workshop: Criando uma Web App com React.js + Firebase"
+  title: "Criando uma Web App com React.js + Firebase"
   description: "Neste workshop vamos criar uma Web App com React.js + Firebase do inicio ao fim. Entender a comunicação entre componentes, utilizar o melhor do ECMAScript 2015 (ES6) e armazenar e sicronizar os dados da aplicação com Firebase."
   subtype: Codelab
   speakers: [3]
@@ -87,8 +88,8 @@
   complexity: "Intermediate"
 -
   id: 107
-  title: "ECMAScript 6 - Consertando as partes ruins do Javascript"
-  description: "Com o advento do ECMAScript 6, alguns pontos levantados pela comunidade e por Douglas Crockford no livro Javascript: Good Parts se tornaram obsoletos. Essa palestra pretende mostrar uma visão geral destes pontos que foram consertados (e os outros não citados pelo livro) e os ruins que continuam na linguagem baseada no ES6."
+  title: "ECMAScript 6 - Consertando as partes ruins do JavaScript"
+  description: "Com o advento do ECMAScript 6, alguns pontos levantados pela comunidade e por Douglas Crockford no livro JavaScript: Good Parts se tornaram obsoletos. Essa palestra pretende mostrar uma visão geral destes pontos que foram consertados (e os outros não citados pelo livro) e os ruins que continuam na linguagem baseada no ES6."
   subtype: presentation
   speakers: [8]
   language: pt-BR
@@ -103,7 +104,7 @@
   complexity: "Intermediate"
 -
   id: 109
-  title: "Workshop: JavaScript Saindo do Zero"
+  title: "JavaScript Saindo do Zero"
   description: "Neste workshop apresentaremos conceitos básicos de JavaScript para alunos e profissionais que estejam ou tenham interesse em iniciar nesta área, visto que que é base para frameworks bastante disseminados no mercado, como o AngularJS, Node.JS entre outros."
   subtype: presentation
   speakers: [10,11]
