@@ -43,8 +43,7 @@ c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2015"
 navigationLinks:
   - {permalink: "/", text: "Home"}
   - {permalink: "/speakers/", text: "JS Experts"}
-#  - {permalink: "/schedule/", text: "Lineup"}
-#  - {permalink: "/live/", text: "Live"}
+  - {permalink: "/schedule/", text: "Lineup"}
 
 bottomNavigationLinks:
  - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
@@ -78,7 +77,7 @@ statisticBlock:
 latestNewsTitle: "Novidades"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "JavaScript Experts"
 rockstarSpeakersButtonText: "Conheça todos Palestrantes"
