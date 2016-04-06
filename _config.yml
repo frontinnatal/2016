@@ -34,6 +34,8 @@ twitterAccount: "@jsdaybr"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+fbAppId: "464161153770183"
+fbAdminId: "1313798299"
 
 # Documents
 c4pUrl: "https://docs.google.com/forms/d/1TVsUN1L2xcMBK59MFnwW7X90Lw-gcj25_EVwnfTTu0U/viewform"
