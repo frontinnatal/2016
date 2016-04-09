@@ -1,14 +1,18 @@
 .logo {
     background-image: url($logos-sprite);
     background-repeat: no-repeat;
+    background-size: 100%;
     &.logo-dark {
-    	background-position: 0 -1px;
+      background-size: 74%;
+      background-position: center -5px !important;
     }
     &.logo-gray {
-    	background-position: 0 -63px;
+      background-position: 0 -20px;
+      background-size: 70%;
+
 	}
 	&.logo-light {
-	    background-position: 0 -127px;
+      background-position: 0 -29px;
 	}
 }
 .icon {

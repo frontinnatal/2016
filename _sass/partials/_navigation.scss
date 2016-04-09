@@ -40,8 +40,9 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         display: inline-block;
         float: left;
         width: 185px;
-        height: 60px;
-        margin-right: 20px;
+        height: 82px;
+        margin-right: 0px;
+        margin-top: -20px;
         transform: scale(.8);
         vertical-align: middle;
          @media (max-width: 767px) {

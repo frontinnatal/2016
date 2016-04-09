@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "JSday Campina Grande 2016"
+title: "FrontIn Natal 2016"
 email: "jsdaybr@gmail.com"
 description: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
@@ -21,7 +21,7 @@ googleAnalyticsSiteUrl: "jsday.com.br"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "JSday Campina Grande"
+organizerName: "FrontIn Natal"
 # organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
 organizerEmail: "jsdaybr@gmail.com"
@@ -42,7 +42,7 @@ c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2015"
 # Navigation
 navigationLinks:
   - {permalink: "/", text: "Home"}
-  - {permalink: "/speakers/", text: "JS Experts"}
+#  - {permalink: "/speakers/", text: "Palestrantes"}
 #  - {permalink: "/schedule/", text: "Lineup"}
 #  - {permalink: "/live/", text: "Live"}
 
@@ -55,52 +55,52 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "#JSdayCG: <typeout>"
+heroTitle: "Front In Natal: <typeout>"
 eventDate: "23 de Abril, 2016"
-typeoutTextValues: '"", "JavaScript", "ECMAScript 6", "AngularJS", "ReactJS", "NodeJS"'
+typeoutTextValues: '"", "CSS", "HTML", "SASS", "AngularJS", "ES6"'
 typeoutFallback: "JavaScript"
 heroButtons:
  - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
  - {link: "https://docs.google.com/forms/d/1TVsUN1L2xcMBK59MFnwW7X90Lw-gcj25_EVwnfTTu0U/viewform", text: "Call for Papers"}
 
 # About Block
-aboutTitle: "Sobre o JSday"
+aboutTitle: "Sobre o Front In"
 aboutBlock:
- - {title: "JavaScript", image: "javascript.jpg", text: "Como uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas." }
+ - {title: "Evento", image: "javascript.jpg", text: "A Primeira edição do Front In em Natal, Com vários profissionais de renome no mercado." }
  - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que conhecem as nuances do Javascript e estejam por dentro das novidades do ES6" }
  - {title: "Networking", image: "networking.jpg", text: "Uma das melhores formas para desenvolvimento profissional com certeza é conhecer a comunidade que você faz parte" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "500", specialCharacter: "+", info: "participantes", detail: "num dos melhores teatros do nordeste"}
+ - {count: "100", specialCharacter: "+", info: "participantes", detail: "num dos melhores teatros do nordeste"}
  - {count: "10", specialCharacter: "+", info: "horas", detail: "de puro código"}
- - {count: "8", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
+ - {count: "5", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
 
 # Latest News Block
 latestNewsTitle: "Novidades"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 0
 rockstarSpeakersTitle: "JavaScript Experts"
 rockstarSpeakersButtonText: "Conheça todos Palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "UNIFACISA"
+eventLocationName: "Teatro IFRN"
 eventLocationLink: "http://www.cesed.br/portal/"
-eventStreetAddress: "Av. Senador Argemiro de Figueiredo, 1901 - Itararé"
-eventAddressLocality: "Campina Grande"
-eventAddressLocalityRegion: "PB"
-eventPostalCode: "58411-020"
+eventStreetAddress: "Av. Sen. Salgado Filho, 1559 - Lagoa Nova"
+eventAddressLocality: "Natal"
+eventAddressLocalityRegion: "RN"
+eventPostalCode: "59015-000"
 eventAddressCountry: "Brasil"
 eventStartTime: "2016-23-04T08:00"
 eventDoorTime: "08:00"
 eventEndTime: "2016-23-04T18:00"
-eventPlaceCoordinates: "-7.2496486,-35.8726949"
-mapCenterCoordinates: "-7.2496486,-35.8726949"
-mapMobileCenterCoordinates: "-7.2496486,-35.8726949"
+eventPlaceCoordinates: "-5.8115923,-35.2053576"
+mapCenterCoordinates: "-5.8115923,-35.2053576"
+mapMobileCenterCoordinates: "-5.8115923,-35.2053576"
 
 # Venue Block
 venueBlockTitle: "Local"
@@ -108,8 +108,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Teatro UNIFACISA"
-venueFeatures: ["Capacidade para mais de 700 pessoas", "Um dos teatros mais modernos do Nordeste"]
+venueTitle: "Teatro IFRN"
+venueFeatures: ["Capacidade para mais de 400 pessoas", "Um dos melhores teatros de Natal"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -129,50 +129,44 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Inscreva-se.now()"
+ticketsTitle: "Inscreva-se"
 ticketsOffers:
  -
-  name: "1º lote: Early Adopters"
-  price: "45"
+  name: "1º lote"
+  price: "xx"
   priceCurrency: "R$"
   buyButtonLink: "http://even.tc/jsday-campina-grande-2016"
-  buyButtonText: "{{Comprar}}"
+  buyButtonText: "Comprar"
   validFrom: "2015-10-05T10:00"
   validThrough: "2015-12-12T23:59"
  -
-  name: "2º Lote: Release Candidate"
-  price: "80"
+  name: "2º Lote"
+  price: "2xx"
   priceCurrency: "R$"
   buyButtonLink: ""
-  buyButtonText: "{{Não disponível}}"
+  buyButtonText: "Não Disponível"
   validFrom: "2015-10-28T00:00"
   validThrough: "2015-12-11T23:59"
  -
-  name: "3º Lote: Release"
-  price: "100"
+  name: "3º"
+  price: "3xx"
   priceCurrency: "R$"
   buyButtonLink: ""
-  buyButtonText: "{{Não disponível}}"
+  buyButtonText: "Não Disponível"
   validFrom: "2015-12-06T00:00"
   validThrough: "2015-12-12T06:00"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=jsdaybr", icon: "twitter"}
- - {link: "https://fb.com/jsdaybr/", icon: "facebook"}
+ # - {link: "https://twitter.com/intent/user?screen_name=jsdaybr", icon: "twitter"}
+ - {link: "https://fb.com/Front-in-Natal-208844549494362/", icon: "facebook"}
 
 footerBlocks:
  -
   title: "Links"
   links:
-    - {link: "http://www.hugeinc.com/", text: "HUGE"}
-    - {link: "http://fb.com/caravanaweb", text: "Caravana Web"}
- -
-  title: "Edições Anteriores"
-  links:
-   - {link: "http://rec.jsday.com.br", text: "JSday Recife"}
-   - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
-   - {link: "http://fsa.jsday.com.br", text: "JSday Feira de Santana"}
+    - {link: "#", text: "UM LINK"}
+    - {link: "#", text: "UM LINK"}
  -
   title: "Contato"
   links:
