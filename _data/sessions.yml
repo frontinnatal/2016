@@ -1,59 +1,112 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "🏁 Credenciamento / Check-in"
+  place: "Lounge"
+  service: true
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "🎉 Abertura"
+  place: "Auditorium"
+  service: true
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  title: "🍴 Almoço"
+  place: ""
+  service: true
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "☕️ Coffee Break"
+  place: ""
+  service: true
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "🙌 Encerramento"
+  place: "Auditorium"
+  service: true
+  description: "Thank you and... Always bet on JS!"
+-
+  id: 006
+  title: "⚡️ Desafio JavaScript"
+  place: "Auditorium"
+  service: true
+  description: "Prepare-se para assimilar mais conteúdo e se divertir com JavaScript."
+-
+  id: 100
+  title: "Desenvolvimento Client-Side em 2016"
+  description: "Quais são nossos desafios atuais, como Front-Enders? Temos um número de questões para resolver, que se encararmos como nossa responsabilidade, conseguiremos evoluir. O tema dessa palestra inclui: modelos de API; RESTful é velho? Grupos de frameworks; No UI e o futuro."
+  subtype: presentation
+  speakers: [1]
+  language: pt-BR
+  complexity: "Advanced"
+-
+  id: 101
+  title: "Having fun with Progressive Web Apps"
+  description: ""
+  subtype: presentation
+  speakers: [2]
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 102
+  title: "Criando uma Web App com React.js + Firebase"
+  description: "Neste workshop vamos criar uma Web App com React.js + Firebase do inicio ao fim. Entender a comunicação entre componentes, utilizar o melhor do ECMAScript 2015 (ES6) e armazenar e sicronizar os dados da aplicação com Firebase."
+  subtype: Codelab
+  speakers: [3]
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 103
+  title: "O realístico mundo do WebVR com A-Frame"
+  description: "O Oculus Rift é um grande exemplo do caminho que a realidade virtual esta seguindo e esse mundo também está acessível à Web. Com o A-Frame podemos criar experiências incríveis, de uma maneira mais simples do que você imagina."
+  subtype: presentation
+  speakers: [4]
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 104
+  title: "MEAN Stack"
+  description: "Introdução à construção de aplicações para a web com a tecnologia Node.js, middleware Express.js, framework Angular.js e o banco de dados MongoDB."
+  subtype: presentation
+  speakers: [5]
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 105
+  title: "ReactJS - Construindo Apps Nativas usando JavaScript"
+  description: "Nesta palestra apresento o framework ReactNative, destacando suas principais características. Mostrarei um passo a passo para começar a desenvolver suas aplicações com ReactNative e alguns exemplos. Por fim, farei uma breve análise de desempenho sobre um app feito com o ReactNative."
+  subtype: presentation
+  speakers: [6]
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 106
+  title: "Mais que mil palavras: Visualizando dados com D3.js"
+  description: "Uma imagem vale mais que mil palavras. Da mesma forma, ferramentas de visualização de dados ajudam a explicar de modo mais fácil idéias ou resultados complexos frequentemente associados a dados volumosos. Com o advento da web, big data e data science tais ferrtamentas se tornam ainda mais importantes. Nesta palestra será apresentado o D3.js, uma biblioteca para criar visualizações dinâmicas e interativas."
+  subtype: presentation
   speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 107
+  title: "ECMAScript 6 - Consertando as partes ruins do JavaScript"
+  description: "Com o advento do ECMAScript 6, alguns pontos levantados pela comunidade e por Douglas Crockford no livro JavaScript: Good Parts se tornaram obsoletos. Essa palestra pretende mostrar uma visão geral destes pontos que foram consertados (e os outros não citados pelo livro) e os ruins que continuam na linguagem baseada no ES6."
+  subtype: presentation
+  speakers: [8]
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 108
+  title: "Crawleando sites com NodeJS"
+  description: "Aprenda na prática a usar os recursos do NodeJS para crawlear sites. Um exemplo prático de crawler de sites de receitas vai ser exposto e o código vai estar disponível no github."
+  subtype: presentation
+  speakers: [9]
+  language: pt-BR
+  complexity: "Intermediate"
+-
+  id: 109
+  title: "JavaScript Saindo do Zero"
+  description: "Neste workshop apresentaremos conceitos básicos de JavaScript para alunos e profissionais que estejam ou tenham interesse em iniciar nesta área, visto que que é base para frameworks bastante disseminados no mercado, como o AngularJS, Node.JS entre outros."
+  subtype: presentation
+  speakers: [10,11]
+  language: pt-BR
+  complexity: "Intermediate"

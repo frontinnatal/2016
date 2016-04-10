@@ -3,14 +3,28 @@
     transition: $base-cubic-transition;
 }
 .btn-primary {
-    color: #fff !important;
+    color: #867642 !important;
     user-select: none;
     text-transform: uppercase;
     border: 0;
-    background: $primary-color !important;
+    background: #fbfaf3 !important;
     &:hover, &:focus, &:active, &.active {
         outline: none;
         color: #fff;
         background: $primary-color-hover;
+    }
+}
+.btn-secondary {
+    background-color: #f8d75d;
+}
+
+.btn-topbar {
+    color: #fff !important;
+    user-select: none;
+    border: 0;
+    background: #5B3100 !important;
+    &:hover, &:focus, &:active, &.active {
+        outline: none;
+        color: #fff !important;
     }
 }
