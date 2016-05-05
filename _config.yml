@@ -10,36 +10,36 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "FrontIn Natal 2016"
-email: "jsdaybr@gmail.com"
-description: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
+title: "FrontInNatal 2016"
+email: "contato@henrimichel.com.br"
+description: "Já estava mais do que na hora de termos nossa edição deste evento que já está mais do que consolidado e aprovado pela comunidade FrontEnd. Já vimos FrontInPoa, FrontInFloripa, FrontInAracaju, FrontInBH, FrontInCuiaba, FrontInSM, FrontInBahia, FrontInMaceio e FrontInFortaleza e finalmente em 2016 estamos lançando o FrontInNatal. O evento é voltado para todo e qualquer estudante ou profissional da área de designer gráfico à desenvolvedor de software que atue na área de FrontEnd ou que deseje entrar neste mercado que cresce exponencialmente a cada dia que passa."
 baseurl: ""
-url: "http://jsday.com.br"
+url: "http://frontinnatal.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-62574701-1"
-googleAnalyticsSiteUrl: "jsday.com.br"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: ""
+googleAnalyticsSiteUrl: ""
+siteVerification: ""
 
 # Organizer Info
-organizerName: "FrontIn Natal"
+organizerName: "FrontInNatal"
 # organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
-organizerEmail: "jsdaybr@gmail.com"
+organizerDescription: "Já estava mais do que na hora de termos nossa edição deste evento que já está mais do que consolidado e aprovado pela comunidade FrontEnd. Já vimos FrontInPoa, FrontInFloripa, FrontInAracaju, FrontInBH, FrontInCuiaba, FrontInSM, FrontInBahia, FrontInMaceio e FrontInFortaleza e finalmente em 2016 estamos lançando o FrontInNatal. O evento é voltado para todo e qualquer estudante ou profissional da área de designer gráfico à desenvolvedor de software que atue na área de FrontEnd ou que deseje entrar neste mercado que cresce exponencialmente a cada dia que passa."
+organizerEmail: "contato@henrimichel.com.br"
 # organizerLogo: "/img/seo/organizer-logo.png"
 # organizerLink: "http://fb.com/caravanaweb"
 
 # Head
 metaKeywords: "event, javascript, js, angularjs, google maps, ionic, firebase, aplicativos híbridos, nodebots"
-twitterAccount: "@jsdaybr"
+twitterAccount: "#FrontInNatal"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
-fbAppId: "464161153770183"
-fbAdminId: "1313798299"
+#fbAppId: "464161153770183"
+#fbAdminId: "1313798299"
 
 # Documents
-c4pUrl: "https://docs.google.com/forms/d/1TVsUN1L2xcMBK59MFnwW7X90Lw-gcj25_EVwnfTTu0U/viewform"
-c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2015"
+c4pUrl: "http://speakerfight.com/events/frontinnatal-2016/"
+c4sponsorsUrl: "mailto:contato@henrimichel.com.br?subject=Patrocínio JSday Recife 2015"
 
 # Navigation
 navigationLinks:
@@ -49,32 +49,32 @@ navigationLinks:
 #  - {permalink: "/live/", text: "Live"}
 
 bottomNavigationLinks:
- - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
+    - {link: "http://www.eventick.com.br/frontinnatal", text: "Inscreva-se"}
 rightNavigationButtons:
- - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
+    - {link: "http://www.eventick.com.br/frontinnatal", text: "Inscreva-se"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Front In Natal: <typeout>"
-eventDate: "23 de Abril, 2016"
-typeoutTextValues: '"", "CSS", "HTML", "SASS", "AngularJS", "ES6"'
+eventDate: "09 de Julho, 2016"
+typeoutTextValues: '"", "CSS", "HTML", "SASS", "AngularJS", "ES6", "UX", "Design"'
 typeoutFallback: "JavaScript"
 heroButtons:
- - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
+    - {link: "http://www.eventick.com.br/frontinnatal", text: "Inscreva-se"}
 
 # About Block
 aboutTitle: "Sobre o Front In"
 aboutBlock:
- - {title: "Evento", image: "javascript.jpg", text: "A Primeira edição do Front In em Natal, Com vários profissionais de renome no mercado." }
- - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que conhecem as nuances do Javascript e estejam por dentro das novidades do ES6" }
+ - {title: "Evento", image: "javascript.jpg", text: "A Primeira edição do FrontInNatal, Com vários profissionais de renome no mercado." }
+ - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que tenham conhecimentos específicos de tecnologias front end" }
  - {title: "Networking", image: "networking.jpg", text: "Uma das melhores formas para desenvolvimento profissional com certeza é conhecer a comunidade que você faz parte" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "participantes", detail: "num dos melhores teatros do nordeste"}
+ - {count: "300", specialCharacter: "+", info: "participantes", detail: "no teatro principal do IFRN"}
  - {count: "10", specialCharacter: "+", info: "horas", detail: "de puro código"}
- - {count: "5", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
+ - {count: "8", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
 
 # Latest News Block
 latestNewsTitle: "Novidades"
@@ -82,21 +82,21 @@ latestNewsTitle: "Novidades"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 0
-rockstarSpeakersTitle: "JavaScript Experts"
+rockstarSpeakersTitle: ""
 rockstarSpeakersButtonText: "Conheça todos Palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "Teatro IFRN"
-eventLocationLink: "http://www.cesed.br/portal/"
+eventLocationName: "Auditório Principal IFRN"
+eventLocationLink: "http://portal.ifrn.edu.br/campus/natalcentral/"
 eventStreetAddress: "Av. Sen. Salgado Filho, 1559 - Lagoa Nova"
 eventAddressLocality: "Natal"
 eventAddressLocalityRegion: "RN"
 eventPostalCode: "59015-000"
 eventAddressCountry: "Brasil"
-eventStartTime: "2016-23-04T08:00"
+eventStartTime: "2016-09-07T08:00"
 eventDoorTime: "08:00"
-eventEndTime: "2016-23-04T18:00"
+eventEndTime: "2016-09-07T18:00"
 eventPlaceCoordinates: "-5.8115923,-35.2053576"
 mapCenterCoordinates: "-5.8115923,-35.2053576"
 mapMobileCenterCoordinates: "-5.8115923,-35.2053576"
@@ -108,13 +108,13 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Teatro IFRN"
-venueFeatures: ["Capacidade para mais de 400 pessoas", "Um dos melhores teatros de Natal"]
+venueTitle: "Auditório IFRN"
+venueFeatures: ["Capacidade para aproximadamente 500 participantes", "Um dos melhores auditórios de Natal"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Tweets.get()"
-twitterHashTag: "jsdaybr"
+twitterHashTag: "frontinnatal"
 twitterFeed: "#"
 
 # Partners Block
@@ -122,77 +122,36 @@ organizersTitle: "Organização"
 partnersTitle: "Patrocinadores"
 partnersC4sponsorsButton: "Ajude-nos a codificar. Patrocine!"
 
-# Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Inscreva-se"
 ticketsOffers:
  -
   name: "1º lote"
-  price: "xx"
+  price: "70.00"
   priceCurrency: "R$"
-  buyButtonLink: "http://even.tc/jsday-campina-grande-2016"
+  buyButtonLink: "http://portal.ifrn.edu.br/campus/natalcentral/"
   buyButtonText: "Comprar"
   validFrom: "2015-10-05T10:00"
-  validThrough: "2015-12-12T23:59"
+  validThrough: "2016-09-06T23:59"
  -
   name: "2º Lote"
-  price: "2xx"
+  price: "80.00"
   priceCurrency: "R$"
-  buyButtonLink: ""
+  buyButtonLink: "http://portal.ifrn.edu.br/campus/natalcentral/"
   buyButtonText: "Não Disponível"
-  validFrom: "2015-10-28T00:00"
-  validThrough: "2015-12-11T23:59"
+  validFrom: "2016-10-06T00:00"
+  validThrough: "2016-10-07T23:59"
  -
-  name: "3º"
-  price: "3xx"
+  name: "Estudante"
+  price: "35.00"
   priceCurrency: "R$"
-  buyButtonLink: ""
-  buyButtonText: "Não Disponível"
+  buyButtonLink: "http://portal.ifrn.edu.br/campus/natalcentral/"
+  buyButtonText: "Comprar"
   validFrom: "2015-12-06T00:00"
-  validThrough: "2015-12-12T06:00"
-
-# Footer
-socialLinks:
- # - {link: "https://twitter.com/intent/user?screen_name=jsdaybr", icon: "twitter"}
- - {link: "https://fb.com/Front-in-Natal-208844549494362/", icon: "facebook"}
-
-footerBlocks:
- -
-  title: "Links"
-  links:
-    - {link: "#", text: "UM LINK"}
-    - {link: "#", text: "UM LINK"}
- -
-  title: "Contato"
-  links:
-   - {link: "mailto:jsdaybr@gmail.com", text: "jsdaybr@gmail.com"}
- -
-  title: "FAQ"
-  links:
-   - {link: "http://pt-br.confcodeofconduct.com/", text: "Código de Conduta"}
-
-# Blog
-blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
-
-# Speakers List Block
-showSessions: true
-
-# Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
-
+  validThrough: "2016-09-07T23:59"
 
 # Call for Papers
-cfpTitle: "Espalhe o amor pelo JavaScript"
-cfpDescription: "Uma oportunidade excelente para você mostrar do que o JavaScript é capaz, você já está por dentro das novidades do ES6, sabe como ninguém utilizar os componentes do ReactJS, programa usando JavaScript Funcional ou ainda quer explicar do que se trata esse tal de BabelJS. Siga os passos abaixo e envie sua proposta."
+cfpTitle: "Compartilhe conhecimento"
+cfpDescription: "Tem vontade de expor seu conhecimento no evento? Evnie agora mesmo uma proposta de palestra em nosso Call4Papers"
 
-# Hackathon
-hackathonTitle: "Hackathon"
-enableHackathon: false
