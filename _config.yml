@@ -39,7 +39,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://speakerfight.com/events/frontinnatal-2016/"
-c4sponsorsUrl: "mailto:contato@henrimichel.com.br?subject=Patrocínio JSday Recife 2015"
+c4sponsorsUrl: "mailto:contato@henrimichel.com.br?subject=Patrocínio FrontInNatal 2016"
 
 # Navigation
 navigationLinks:
@@ -72,7 +72,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "participantes", detail: "no teatro principal do IFRN"}
+ - {count: "300", specialCharacter: "+", info: "participantes", detail: "no auditório principal do IFRN"}
  - {count: "10", specialCharacter: "+", info: "horas", detail: "de puro código"}
  - {count: "8", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
 
