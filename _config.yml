@@ -63,7 +63,7 @@ heroButtons:
     - {link: "http://www.eventick.com.br/frontinnatal", text: "Inscreva-se"}
 
 # About Block
-aboutTitle: "Sobre o Front In"
+aboutTitle: "Ei Coisinha, presta atenção."
 aboutBlock:
  - {title: "Evento", image: "javascript.jpg", text: "A Primeira edição do FrontInNatal, Com vários profissionais de renome no mercado." }
  - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que tenham conhecimentos específicos de tecnologias front end" }
