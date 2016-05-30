@@ -2,7 +2,7 @@
     position: relative;
     min-height: 400px;
     padding-top: 0;
-    background: $base-section-background;
+    overflow: visible;
     @media (max-width: 767px) {
         min-height: 200px;
         padding: 0;

@@ -1,9 +1,9 @@
 (function($) {
     $(document).ready(function() {
+        var headerTop = $("#top-header").offset().top;
         $(window).load(function() {
             $('#st-container').removeClass('disable-scrolling');
             $('#loading-animation').fadeOut();
-            $('#preloader').delay(350).fadeOut(800);
             initGooglePlus();
             equalheight('.same-height');
         });
@@ -19,10 +19,12 @@
         if ($(window).height() < 512) {
             $('#bottom-navlinks').removeClass('bottom-navlinks').addClass('bottom-navlinks-small');
         }
-        if ($(window).scrollTop() >= 100) {
+        if ($(window).scrollTop() >= $("#top-header").offset().top) {
             $('#top-header').addClass('after-scroll');
+            $('#top-header').addClass('fixed');
             $('#logo-header .logo').removeClass('logo-light').addClass('logo-dark');
         }
+
 
         $(window).scroll(function() {
             var scroll = $(this).scrollTop();
@@ -30,14 +32,6 @@
             var logo = $('#logo-header .logo');
             var buyButton = $('.right-nav-button');
             var topOffset = header.height() + $('.track-header').height();
-
-            if (scroll >= 100) {
-                header.addClass('after-scroll');
-                logo.removeClass('logo-light').addClass('logo-dark');
-            } else {
-                header.removeClass('after-scroll');
-                logo.removeClass('logo-dark').addClass('logo-light');
-            }
 
             if (scroll >= $('.top-section').height() && $(window).width() > 767) {
                 buyButton.removeClass('right-nav-button-hidden');
@@ -52,6 +46,12 @@
                     $('.track-header.sticky').find('.slot-detail').html($(this).data('slotDetail'));
                 }
             });
+            if (scroll >= headerTop) {
+                $('#top-header').addClass('fixed');
+            }
+            else{
+                $('#top-header').removeClass('fixed');
+            }
         });
 
         $(window).resize(function() {
