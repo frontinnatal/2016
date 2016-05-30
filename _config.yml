@@ -11,20 +11,20 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "FrontIn Natal 2016"
-email: "jsdaybr@gmail.com"
-description: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
+email: "contato@henrimichel.com.br"
+description: ""
 baseurl: ""
-url: "http://jsday.com.br"
-permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-62574701-1"
-googleAnalyticsSiteUrl: "jsday.com.br"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+# url: "http://jsday.com.br"
+# permalink: "/blog/:title"
+# googleAnalyticsTrackingId: "UA-62574701-1"
+# googleAnalyticsSiteUrl: "jsday.com.br"
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "FrontIn Natal"
 # organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "O JSday é um evento imersivo focado em Javascript e tudo o que essa linguagem tem a oferecer"
-organizerEmail: "jsdaybr@gmail.com"
+organizerEmail: "contato@henrimichel.com.br"
 # organizerLogo: "/img/seo/organizer-logo.png"
 # organizerLink: "http://fb.com/caravanaweb"
 
@@ -39,7 +39,7 @@ fbAdminId: "1313798299"
 
 # Documents
 c4pUrl: "https://docs.google.com/forms/d/1TVsUN1L2xcMBK59MFnwW7X90Lw-gcj25_EVwnfTTu0U/viewform"
-c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2015"
+c4sponsorsUrl: "mailto:contato@henrimichel.com.br?subject=Patrocínio Front In Natal 2016"
 
 # Navigation
 navigationLinks:
@@ -120,7 +120,7 @@ twitterFeed: "#"
 # Partners Block
 organizersTitle: "Organização"
 partnersTitle: "Patrocinadores"
-partnersC4sponsorsButton: "Ajude-nos a codificar. Patrocine!"
+partnersC4sponsorsButton: "Dá uma mãozinha no evento. Patrocine"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -162,15 +162,15 @@ socialLinks:
  - {link: "https://fb.com/Front-in-Natal-208844549494362/", icon: "facebook"}
 
 footerBlocks:
- -
-  title: "Links"
-  links:
-    - {link: "#", text: "UM LINK"}
-    - {link: "#", text: "UM LINK"}
+ # -
+ #  title: "Links"
+ #  links:
+ #    - {link: "#", text: "UM LINK"}
+ #    - {link: "#", text: "UM LINK"}
  -
   title: "Contato"
   links:
-   - {link: "mailto:jsdaybr@gmail.com", text: "jsdaybr@gmail.com"}
+   - {link: "mailto:contato@henrimichel.com.br", text: "O Bunitão das tapioca"}
  -
   title: "FAQ"
   links:

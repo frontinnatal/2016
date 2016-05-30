@@ -1,5 +1,17 @@
 (function($) {
     $(document).ready(function() {
+
+        $.get("https://braziljs.org/api/list/sponsors?eventId=5743567ef9a773624e6ea856", function(data){
+          for(var i in data.sponsors){
+            var sponsor = data.sponsors[i];
+
+            for(var j in sponsor){
+              $("#" + i).prepend("<li><a href=\"" + sponsor[j].link + "\" target=\"_blank\"><img src=\"https://braziljs.org/images/cms/" + sponsor[j].image.filename + "\" title=\" " + sponsor[j].name + " \" alt=\" " + sponsor[j].name + " \"></a></li>")
+            }
+
+          }
+        });
+
         var headerTop = $("#top-header").offset().top;
         $(window).load(function() {
             $('#st-container').removeClass('disable-scrolling');

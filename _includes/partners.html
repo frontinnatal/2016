@@ -5,7 +5,7 @@
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
             <h5>{{ partner.group }}</h5>
-            <ul class="list-inline">
+            <ul id="{{partner.class}}" class="list-inline">
                 {% for element in partner.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">

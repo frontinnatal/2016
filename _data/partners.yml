@@ -1,5 +1,12 @@
 -
-  group: ""
+  group: "Ouro"
+  class: "gold"
   elements:
-    - {name: "HUGE", description: "Huge is a full service digital agency headquartered in Brooklyn with offices worldwide. We transform brands and build businesses.", link: "http://www.hugeinc.com/", imageUrl: "huge.png", width: "209px"}
-    - {name: "Caravana Web", description: "Caravana Web é uma comunidade focada na disseminação e busca de conhecimento através de diversas atividades como participação de eventos, treinamentos, viagens e muitas outras atividades.", link: "https://www.facebook.com/caravanaweb/", imageUrl: "caravanaweb.jpg", width: "160px"}
+    - {name: "Evolux", description: "A Evolux desenvolve uma plataforma robusta 100% web para operações de médio e grande porte com DAC, Discador e URA. Todos os painéis e relatórios são atualizados em tempo real para para você poder gerir com precisão experiência que o seu cliente tem ao entrar em contato com você. ", link: "http://www.evolux.net.br/", imageUrl: "logo-evolux.svg"}
+-
+  group: "Prata"
+  class: "silver"
+
+-
+  group: "Bronze"
+  class: "bronze"
