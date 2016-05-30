@@ -10,15 +10,15 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "FrontInNatal 2016"
+title: "FrontIn Natal 2016"
 email: "contato@henrimichel.com.br"
-description: "Já estava mais do que na hora de termos nossa edição deste evento que já está mais do que consolidado e aprovado pela comunidade FrontEnd. Já vimos FrontInPoa, FrontInFloripa, FrontInAracaju, FrontInBH, FrontInCuiaba, FrontInSM, FrontInBahia, FrontInMaceio e FrontInFortaleza e finalmente em 2016 estamos lançando o FrontInNatal. O evento é voltado para todo e qualquer estudante ou profissional da área de designer gráfico à desenvolvedor de software que atue na área de FrontEnd ou que deseje entrar neste mercado que cresce exponencialmente a cada dia que passa."
+description: ""
 baseurl: ""
-url: "http://frontinnatal.github.io"
-permalink: "/blog/:title"
-googleAnalyticsTrackingId: ""
-googleAnalyticsSiteUrl: ""
-siteVerification: ""
+# url: "http://jsday.com.br"
+# permalink: "/blog/:title"
+# googleAnalyticsTrackingId: "UA-62574701-1"
+# googleAnalyticsSiteUrl: "jsday.com.br"
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "FrontInNatal"
@@ -38,6 +38,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 #fbAdminId: "1313798299"
 
 # Documents
+
 c4pUrl: "http://speakerfight.com/events/frontinnatal-2016/"
 c4sponsorsUrl: "mailto:contato@henrimichel.com.br?subject=Patrocínio FrontInNatal 2016"
 
@@ -120,7 +121,7 @@ twitterFeed: "#"
 # Partners Block
 organizersTitle: "Organização"
 partnersTitle: "Patrocinadores"
-partnersC4sponsorsButton: "Ajude-nos a codificar. Patrocine!"
+partnersC4sponsorsButton: "Dá uma mãozinha no evento. Patrocine"
 
 
 # Tickets Block
@@ -151,7 +152,38 @@ ticketsOffers:
   validFrom: "2015-12-06T00:00"
   validThrough: "2016-09-07T23:59"
 
+# Footer
+socialLinks:
+ # - {link: "https://twitter.com/intent/user?screen_name=jsdaybr", icon: "twitter"}
+ - {link: "https://fb.com/Front-in-Natal-208844549494362/", icon: "facebook"}
+
+footerBlocks:
+ # -
+ #  title: "Links"
+ #  links:
+ #    - {link: "#", text: "UM LINK"}
+ #    - {link: "#", text: "UM LINK"}
+ -
+  title: "Contato"
+  links:
+   - {link: "mailto:contato@henrimichel.com.br", text: "O Bunitão das tapioca"}
+ -
+  title: "FAQ"
+  links:
+   - {link: "http://pt-br.confcodeofconduct.com/", text: "Código de Conduta"}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: "devfestua"
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+
 # Call for Papers
 cfpTitle: "Compartilhe conhecimento"
 cfpDescription: "Tem vontade de expor seu conhecimento no evento? Evnie agora mesmo uma proposta de palestra em nosso Call4Papers"
-
