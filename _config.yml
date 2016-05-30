@@ -63,7 +63,7 @@ heroButtons:
  - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
 
 # About Block
-aboutTitle: "Sobre o Front In"
+aboutTitle: "Ei Coisinha, presta atenção."
 aboutBlock:
  - {title: "Evento", image: "javascript.jpg", text: "A Primeira edição do Front In em Natal, Com vários profissionais de renome no mercado." }
  - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que conhecem as nuances do Javascript e estejam por dentro das novidades do ES6" }
