@@ -1,33 +1,22 @@
 <!-- Begin Partners Section -->
 <section id="partners" class="partners">
-  <div class="content-wrapper">
-    <div class="col-lg-10 col-lg-offset-1">
-      <h3>{{ site.partnersTitle }}</h3>
-      <!-- BrazilJS snippet -->
-      <div id='braziljs-widget-partners'></div>
-      <script src='https://braziljs.org/js/widget.js'></script>
-      <script>
-BrazilJS.widget.load('partners', {
-  eventId: '5743567ef9a773624e6ea856',
-  name: 'FrontInNatal',
-  theme: 'white',
-  container: document.getElementById('braziljs-widget-partners')
-});
-      </script>
-      <!-- end of BrazilJS snippet -->
-      {% for partner in site.data.partners %}
-      <h5>{{ partner.group }}</h5>
-      <ul class="list-inline">
-        {% for element in partner.elements %}
-        <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-          <a href="{{ element.link }}" target="_blank">
-            <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-          </a>
-        </li>
-        {% endfor %}
-      </ul>
-      {% endfor %}
-      <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.partnersTitle }}</h3>
+            {% for partner in site.data.partners %}
+            <h5>{{ partner.group }}</h5>
+            <ul id="{{partner.class}}" class="list-inline">
+                {% for element in partner.elements %}
+                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                    <a href="{{ element.link }}" target="_blank">
+                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+            <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
+        </div>
     </div>
   </div>
 </section>
