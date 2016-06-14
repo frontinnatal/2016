@@ -1,16 +1,17 @@
 -
   id: 1
-  name: "Caio"
-  surname: "Vaccaro"
-  company: "HUGE"
+  name: "Jean Carlo"
+  surname: "Suissa"
+  company: "WEBSCHOOL"
   title: "Front-End Developer"
   bio: "Com sete anos de experiência em programação, trabalha principalmente como Senior Web Engineer. Participou de diversas startups e projetos, incluindo a Tátil Design. Também trabalhou em agências como a TUUT e atualmente está na HUGE Inc, uma empresa americana focada em criar experiências digitais. Lá lidera uma equipe de desenvolvimento, garantindo boas práticas e processo eficiente, além de atuar em Front-End, Back-End e Continuous Integration."
-  thumbnailUrl: caiovaccaro.jpg
+  thumbnailUrl: "http://2014.jsconf.uy/img/speakers/jean-nascimento.png"
   rockstar: true
+  talk: "Atomic Design e MEAN Stack"
   social:
-    - {name: "twitter", link: "https://twitter.com/caiovaccaro"}
-    - {name: "github", link: "https://github.com/caiovaccaro"}
-    - {name: "linkedin", link: "http://linkedin.com/in/caiovaccaro"}
+    - {name: "twitter", link: "https://twitter.com/suissa"}
+    - {name: "github", link: "https://github.com/suissa"}
+    - {name: "facebook", link: "http://facebook.com/suissa"}
 -
   id: 2
   name: "Juarez"
@@ -18,111 +19,10 @@
   company: "Google Developer Expert"
   title: "Front-End Engineer"
   bio: "Front end Engineer com mais de 7 anos de experiência, começou sua carreira como desenvolvedor PHP, tentou aprender Java e depois se entregou ao Ruby e Rails, mas com sua primeira classe CSS dedicou-se completamente a carreira de Front End e UX. Trabalhou com várias Empresas/Startups, incluindo Compra3, Eadbox, Amanaiê, Enjoei, Gabstr Inc e madewithlove."
-  thumbnailUrl: juarez-filho.jpg
+  thumbnailUrl: "https://developers.google.com/experts/img/user/100886802228672487002.jpg"
   rockstar: true
+  talk: "Progressive Web Apps e Firebase"
   social:
     - {name: "google-plus", link: "https://plus.google.com/+JuarezPAFilho"}
     - {name: "twitter", link: "https://twitter.com/juarezpaf"}
     - {name: "github", link: "https://github.com/juarezpaf"}
--
-  id: 3
-  name: "Breno"
-  surname: "Polanski"
-  company: "Meteorite BI"
-  title: "Front End Software Engineer"
-  bio: "A developer who loves to learn new programming languages​​, build Open Source projects and play video game. Just wanting to change the world through the web ♥"
-  thumbnailUrl: breno-polanski.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "http://twitter.com/brenopolanski"}
--
-  id: 4
-  name: "Bruno"
-  surname: "Lima"
-  company: "CESAR"
-  title: "Front-end Developer"
-  bio: "Desenvolvedor web, focado no front-end. É voluntário da Mozilla, apoiador da open web e neutralidade da rede. Front-end Developer no CESAR, em Recife. Membro do NodeBots Recife."
-  thumbnailUrl: bruno-lima.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/brunolimawd"}
-    - {name: "twitter", link: "https://twitter.com/brunolimawd"}
-    - {name: "github", link: "http://github.com/brunolimawd"}
--
-  id: 5
-  name: "Bruno"
-  surname: "Catão"
-  company: "Meteorite.bi"
-  title: "Developer"
-  bio: "Desenvolvedor com 14 anos de experiência, com foco em Java, JavaScript e Ruby (desenvolvo jogos por diversão, normalmente na plataforma Unity3d). Já trabalhei como programador, líder de célula, arquiteto de software, consultor e desenvolvedor full-stack. Também leciono desde 2009 nos cursos de Sistemas de Informação, Jogos Digitais e, mais recentemente, Ciência da Computação."
-  thumbnailUrl: bruno-catao.jpg
-  rockstar: true
-  social:
-    - {name: "github", link: "http://github.com/brunogamacatao"}
--
-  id: 6
-  name: "João"
-  surname: "Gabriel"
-  company: "Epitrack"
-  title: "Software Engineer/Teacher"
-  bio: "Paraense, viciado em açaí, mestre em Computação Aplicada, Professor e Pesquisador em Inteligência Computacional e Mineração de Dados. Apaixonado por Javascript, já atuei como instrutor em diversos cursos envolvendo tecnologias web, trabalho diariamente com a tecnologia e espero que cresça cada dia mais. Músico nas horas vagas, não dispenso uma boa oportunidade de tirar um som com os amigos! "
-  thumbnailUrl: joao-gabriel.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/joaogabriellima"}
-    - {name: "github", link: "http://github.com/jgabriellima"}
--
-  id: 7
-  name: "Fernando"
-  surname: "Junior"
-  company: "UFCG"
-  title: "Master's Degree Student"
-  bio: "Currently a master's degree student in Computer Science at Universidade Federal de Campina Grande. The central area of his research is artificial intelligence and focuses on analyzing patterns from the players' behavior using machine learning. As a full-stack software engineer He also acts in several subjects using primarily open source platforms. Additionally, He is experienced with business intelligence."
-  thumbnailUrl: fernando-junior.jpg
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/fernandofnjr"}
-    - {name: "github", link: "http://github.com/fernandojunior"}
--
-  id: 8
-  name: "Diógenes"
-  surname: "Fernandes"
-  company: "Buffered"
-  title: "Full-Stack Developer"
-  bio: "Hacker, sports lover and mover"
-  thumbnailUrl: diogenes-fernandes.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "http://twitter.com/diofeher"}
-    - {name: "github", link: "http://github.com/diofeher"}
--
-  id: 9
-  name: "Allisson"
-  surname: "Azevedo"
-  company: "SodaVirtual"
-  title: "Web Developer"
-  bio: "Web Developer desde 2009, trabalhando principalmente com Python e Django. Apaixonado por linguagens de programação, banco de dados e arquiteturas escaláveis.
-Atualmente trabalha como Web Developer na SodaVirtual."
-  thumbnailUrl: allisson-azevedo.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "http://twitter.com/allisson"}
-    - {name: "github", link: "http://github.com/allisson"}
-    - {name: "linkedin", link: "http://twitter.com/allisson"}
--
-  id: 10
-  name: "Ruan Pierre"
-  surname: "de Oliveira"
-  company: "UFCG"
-  title: "Analista Sênior"
-  bio: "Ruan Pierre é Mestre em Ciências da Computação pela UFCG e Especialista Desenvolvimento para Dispositivos Móveis e Embarcados. Atualmente é Analista Sênior de Projetos no Embedded/UFCG e trabalha com Desenvolvimento de Software há 5 anos, no qual 4 desses foram pela empresa Accenture, com experiências em Java, Angular, Spring Boot e frameworks Java Web. Nas horas vagas gosto de assistir filmes, assim como conversar com os amigos."
-  thumbnailUrl: ruan-pierre.png
--
-  id: 11
-  name: "Daniel"
-  surname: "Abella"
-  company: "UFCG"
-  title: "Líder de Projetos"
-  bio: "Apaixonado por tecnologia, com mais de 10 anos de experiência na área de Desenvolvimento de Software e Gerenciamento de Projetos. Atualmente é Líder de Projetos na Embedded/UFCG para Projetos na Compal (Taiwan), Professor do Curso de Sistemas de Informação na Facisa. Tem interesse em programação."
-  thumbnailUrl: daniel-abella.jpg
-  rockstar: true
