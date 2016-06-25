@@ -33,10 +33,9 @@
   company: "W3C Brasil"
   title: "Especialista em desenvolvimento web"
   bio: "Especialista em desenvolvimento web do W3C Brasil. Formado em desenho e computação gráfica e pós graduado em design de hipermídia pela Universidade Anhembi Morumbi em São Paulo. Trabalha há mais de 12 anos com desenvolvimento web. Coordenador do Prêmio Nacional de Acessibilidade na Web e do Grupo de Trabalho em Acessibilidade na Web e representante do W3C Brasil em plenárias técnicas do W3C. Apaixonado por acessibilidade, usabilidade, padrões web, HTML, CSS, Star Wars e café sem açúcar."
-  thumbnailUrl: "http://www.expotec.org.br/palestrantes/reinaldo-ferraz-bd345f8cf763bcc9e5ed979ab7d219a9.jpg"
+  thumbnailUrl: "https://pbs.twimg.com/profile_images/650474236562251776/ihDhw15F.jpg"
   rockstar: true
   talk: "A confirmar"
   social:
     - {name: "google-plus", link: "https://plus.google.com/+ReinaldoFerrazWeb"}
     - {name: "twitter", link: "https://twitter.com/reinaldoferraz/"}
-    - {name: "github", link: "#"}
