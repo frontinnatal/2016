@@ -15,11 +15,17 @@
     - {name: "rinus.solutions", description: "", link: "http://rinus.solutions/", imageUrl: "rinussolutions.svg"}
 
 -
+  group: "Apoio"
+  class: "apoio"
+  elements:
+    - {nome: "IFRN", description: "", link: "http://portal.ifrn.edu.br/", imageUrl: "ifrn.jpg"}
+    - {nome: "Estacio", description: "", link: "http://portal.estacio.br/", imageUrl: "estacio.png"}
+
+-
   group: "Parceiros"
   class: "parceiros"
   elements:
     - {name: "GDG Natal", description: "O GDG é voltado para os desenvolvedores que tem interesse nas tecnologias de desenvolvimento da Google. um GDG pode ter várias formas: apenas um grupo pequeno de pessoas que se reúnem para assistir a um vídeo mais recente sobre alguma tecnologia Google ou ainda grandes encontros com demonstrações e palestras. Tudo, de plataformas do Android, do App Engine e do Google Chrome, a APIs de produto, como a API do Google Maps, a API do YouTube e a API do Google Agenda.", link: "https://www.gdgnatal.com/", imageUrl: "gdg.png"}
     - {name: "Solucione 3D", description: "", link: "https://www.facebook.com/solution3dnatal/", imageUrl: "solution3d.jpg"}
     - {nome: "Bruno Grafika", description: "", link: "https://www.facebook.com/profile.php?id=100007714603665&fref=ts", imageUrl: "bruno.jpg"}
-    - {nome: "IFRN", description: "", link: "http://portal.ifrn.edu.br/", imageUrl: "ifrn.jpg"}
-    - {nome: "Estacio", description: "", link: "http://portal.estacio.br/", imageUrl: "estacio.png"}
+
