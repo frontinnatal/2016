@@ -39,3 +39,87 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+ReinaldoFerrazWeb"}
     - {name: "twitter", link: "https://twitter.com/reinaldoferraz/"}
+-
+  id: 4
+  name: "Emerson"
+  surname: "Thompson"
+  company: "Studiodev"
+  title: "Full Stack Developer"
+  bio: "Amante de tecnologia e apaixonado pela web, é daqueles Designers que se apaixonou no primeiro \"Hello Word\". Desenvolvedor a pouco mais de 6 anos, atualmente é Desenvolvedor Front-End na Pipoca Digital/RJ e Co-Fundador da StudioDev. Sempre a procura de compartilhar conhecimentos, nas horas vagas gosta de jogar Basquete, fazer zuada com violão, e se não tiver café nem chama porque ele não vai!"
+  thumbnailUrl: "https://avatars0.githubusercontent.com/u/6743115?v=3&s=460"
+  rockstar: false
+  talk: "Desktop Apps com Electron"
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/thompsonemerson"}
+    - {name: "twitter", link: "https://twitter.com/thompsonweb"}
+    - {name: "github", link: "https://github.com/thompsonemerson"}
+-
+  id: 5
+  name: "Igor"
+  surname: "Marques"
+  company: "Code Miner"
+  title: "Desenvolvedor"
+  bio: "Desenvolvedor na CodeMiner 42. Escreve sobre software e carreira nas horas vagas."
+  thumbnailUrl: "https://avatars0.githubusercontent.com/u/2074711?v=3&s=460"
+  rockstar: false
+  talk: "Conhecimentos que todo desenvolvedor iniciante deve ter (e onde obtê-los)"
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/igormarquesilva"}
+    - {name: "twitter", link: "#"}
+    - {name: "github", link: "https://github.com/IgorMarques/"}
+-
+  id: 6
+  name: "Stefan"
+  surname: "Yohansson"
+  company: "Evolux"
+  title: "Desenvolvedor"
+  bio: "Stefan é aficionado por matemática, lógica e computação. Começou a aprender sobre lógica e computação com 12 anos e, de lá para cá, não parou. Gosta muito de projetos Web e atualmente mantém alguns como: Flat-UI, fluentPDO. Tem uma relação de amor e ódio por Javascript e front-end, ultimamente escreve um pouco de Rust quando dá. Atualmente trabalhando com React + Redux e um pouco de programação funcional em javascript (?) na Evolux Sistemas."
+  thumbnailUrl: "https://pt.gravatar.com/userimage/76824568/93f218db0c972758600ca26a351ad5aa?size=500"
+  rockstar: false
+  talk: "REACT + REDUX: como controlar o estado da sua aplicação sem perder a cabeça."
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/s.yohansson"}
+    - {name: "twitter", link: "#"}
+    - {name: "github", link: "https://github.com/StefanYohansson"}
+-
+  id: 7
+  name: "Daniel"
+  surname: "Mascena"
+  company: "Dataprev"
+  title: "Desenvolvedor Frontend"
+  bio: "Desenvolvedor frontend na Dataprev atuando na coordenação responsável por padronizar e evoluir as interfaces web dos nossos produtos. Trabalhando com HTML 5, CSS 3, Javascript, Bootstrap 3, Less, AngularJS, JSF 2, Primefaces 5, Git, Atom/Brackets/VScode/Sublime Text. Aficionado pelo universo geek. Metalhead e esportista do dia a dia."
+  thumbnailUrl: "https://dl.dropboxusercontent.com/u/10281430/foto.png"
+  rockstar: false
+  talk: "Bootstrap 4: mergulhando no Sass"
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/danmascena"}
+    - {name: "twitter", link: "https://twitter.com/danmascena"}
+    - {name: "github", link: "https://github.com/daam"}
+-
+  id: 8
+  name: "Yan"
+  surname: "Justino"
+  company: "Dataprev"
+  title: "Desenvolvedor Frontend"
+  bio: "Profissional focado na adoção de boas práticas no desenvolvimento de software; há mais de 15 anos colaborando na construção de robustas soluções corporativas. Atualmente é arquiteto de software na Secretaria de Estado da Tributação do Governo do Rio Grande do Norte (em contrato pela IVIA), onde é responsável pelo planejamento de arquitetura e desenvolvimento de sistemas fazendários. Além disso, é aluno do Programa de Pós-Graduação em Engenharia de Software da Universidade Federal do Rio Grande do Norte. Sempre que possível, atua na comunidade como palestrante em eventos técnicos."
+  thumbnailUrl: "https://avatars3.githubusercontent.com/u/357114?v=3&s=400"
+  rockstar: false
+  talk: "Typescript: Javascript que scala"
+  social:
+    - {name: "facebook", link: "http://facebook.com/yanjustino"}
+    - {name: "twitter", link: "http://twitter.com/yanjustino"}
+    - {name: "github", link: "https://github.com/yanjustino"}
+-
+  id: 9
+  name: "André"
+  surname: "Grilo"
+  company: "SINFO"
+  title: "Designer"
+  bio: "Coordenador de Design na Superintendência de Informática da Universidade Federal do Rio Grande do Norte (SINFO/UFRN). Concluiu sua graduação e mestrado em Design pela UFRN; Cofundador e ex-presidente da Caroá Design, empresa júnior de Design da UFRN. Cofundador da Comunidade UX Design Natal. É consultor em Branding e UX. Escreve e compartilha conteúdos sobre experiência do usuário, metodologias, processo criativo e teoria do design."
+  thumbnailUrl: "https://scontent.fnat1-1.fna.fbcdn.net/v/t1.0-9/12274576_907875415914631_3089685660645258568_n.jpg?oh=96c1669311dab038b243e37c0e52bc35&oe=57FA5DF1"
+  rockstar: false
+  talk: "Alguns passos pensar e praticar UX Design com seu time e na sua empresa"
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/andregril0"}
+    - {name: "twitter", link: "#"}
+    - {name: "github", link: "#"}
