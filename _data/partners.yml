@@ -32,3 +32,6 @@
     - {nome: "BrazilJS", description: "", link: "https://braziljs.org/", imageUrl: "braziljs-logo.png"}
     - {nome: "NXCode", description: "", link: "http://www.youtube.com/c/nxcodeoficial", imageUrl: "logo-nxcode.svg"}
     - {nome: "DevNaEstrada", description: "", link: "http://devnaestrada.com.br/", imageUrl: "dne-podcast-avatar1400.png"}
+    - {nome: "Casa do Código", description: "", link: "http://casadocodigo.com.br/", imageUrl: "cdc-logo-novo-SVG.svg"}
+    - {nome: "Novatec", description: "", link: "http://novatec.com.br/", imageUrl: "novatecLogo.png"}
+    - {nome: "Treinaweb", description: "", link: "https://www.treinaweb.com.br/", imageUrl: "tw-svg"}
